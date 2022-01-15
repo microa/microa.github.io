@@ -1,6 +1,4 @@
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Binhua Huang's Main Page**//Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
