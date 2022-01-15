@@ -1,6 +1,6 @@
 <h2>Binhua Huang's Main Page</h2>  <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-
+<p>I have a BS EE and MSc CS education background, and I am looking for a Ph.D full scholarship position in the field related to EE or CS. If you want to know more about me, don't hesitate to contact me. Here are some of my works.</p>
 
 ### Works
 
