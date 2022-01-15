@@ -1,5 +1,23 @@
 **Binhua Huang's Main Page**  <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
+
+
+## Works
+
+<p>1.Tactile perception based on neural network (MSc. dissertation)</p>
+<p>2.</p>
+<p>3.</p>
+
+## Focus
+Robotics, Haptics, and Artificial Intelligence.
+
+
+
+
+
+
+
+
 <!--
 [Link to another page](./another-page.html).
 There should be whitespace between paragraphs.
@@ -8,14 +26,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 -->
 
-## Works
 
-1.Tactile perception based on neural network (MSc. dissertation)
-2.
-3.
 
-## Focus
-Robotics, Haptics, and Artificial Intelligence.
+
 
 <!--
 ### Header 3
