@@ -2,13 +2,13 @@
 
 
 
-## Works
+### Works
 
 <p>1.Tactile perception based on neural network (MSc. dissertation)</p>
 <p>2.</p>
 <p>3.</p>
 
-## Focus
+### Focus
 <p>Robotics, Haptics, and Artificial Intelligence.</p>
 
 
