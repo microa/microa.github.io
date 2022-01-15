@@ -1,4 +1,4 @@
-**Binhua Huang's Main Page**  <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
+<head>Binhua Huang's Main Page</head>  <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
 
 
