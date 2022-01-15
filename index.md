@@ -9,7 +9,7 @@
 <p>3.</p>
 
 ## Focus
-Robotics, Haptics, and Artificial Intelligence.
+<p>Robotics, Haptics, and Artificial Intelligence.</p>
 
 
 
