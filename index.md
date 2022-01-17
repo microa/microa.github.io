@@ -11,7 +11,6 @@
 ### Repositories
 <p>There are some interesting projects I developed:</p>
 <p>[Projects](https://github.com/microa).</p>
-[Link to another page](./another-page.html).
 
 ### Focus
 <p>Robotics, Haptics, and Artificial Intelligence.</p>
