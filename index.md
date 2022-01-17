@@ -10,7 +10,7 @@
 
 ### Repositories
 <p>There are some interesting projects I developed:</p>
-<a href="https://github.com/microa">Projects</a>
+<a href="https://github.com/microa">Click here to see those projects.</a>
 
 ### Focus
 <p>Robotics, Haptics, and Artificial Intelligence.</p>
