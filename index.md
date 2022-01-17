@@ -8,6 +8,10 @@
 <p>2.</p>
 <p>3.</p>
 
+### Repositories
+There are some interesting projects I developed:
+https://github.com/microa
+
 ### Focus
 <p>Robotics, Haptics, and Artificial Intelligence.</p>
 
