@@ -15,6 +15,9 @@
 ### Focus
 <p>Robotics, Haptics, and Artificial Intelligence.</p>
 
+### Contact
+<p>to be continue...</p>
+
 
 
 
