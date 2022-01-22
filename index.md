@@ -5,7 +5,7 @@
 ### Works
 
 <p>1.Tactile perception based on neural network (MSc. dissertation)</p>
-<p>2.</p>
+<p>2.Cloud-based Internet of Things System Deployment (BE. dissertation)</p>
 <p>3.</p>
 
 ### Repositories
