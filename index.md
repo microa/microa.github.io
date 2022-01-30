@@ -4,8 +4,8 @@
 
 ### Works
 
-<p>1.Tactile perception based on neural network (Master thesis)</p>
-<p>2.Cloud-based Internet of Things System Deployment (Bachelor thesis)</p>
+<p>1.Tactile perception based on neural network (Degree thesis of master)</p>
+<p>2.Cloud-based Internet of Things System Deployment (Degree thesis of bachelor)</p>
 <p>3.</p>
 
 ### Repositories
