@@ -70,14 +70,19 @@
 
 .row {
   display: flex;
-  justify-content: space-between; /* Adjust this as needed */
-  align-items: center; /* Adjust this as needed */
+  justify-content: space-between;
+  align-items: center;
   font-family: 'Microsoft YaHei', sans-serif;
 }
 
 .column {
-  flex: 1; /* Make columns share the available space equally */
-  padding: 0 10px; /* Add some padding to the left and right of each column */
+  flex: 1;
+  padding: 0 10px;
+  text-align: left;
+}
+
+.column-merged {
+  flex: 3; /* Adjust the value to allocate more space for the merged column */
 }
 
 h1,h2,h3,h4 {
