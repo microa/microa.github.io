@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Binhua Huang"
-  avatar           : "https://github.com/microa/homepage-bin/blob/0c650608d77414eac49f1a7d9e5b568a3a9960b1/images/BHH_G.jpg"
+  avatar           : "images/BHH_G.jpg"
   bio              : "UCD"
   location         : "Dublin, Ireland"
   employer         :
