@@ -27,7 +27,7 @@ author:
   location         : "Dublin, Ireland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WsVak2gAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=WsVak2gAAAAJ"
   email            : "bh.huang@ieee.org"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@binhuahuang1591"
   wikipedia        :
 
 
