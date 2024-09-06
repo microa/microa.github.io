@@ -21,13 +21,20 @@ My research interest includes computer vision. I have published several papers w
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 Ranked 27/521 on the National Information Center of China: Video Recognition for City Management Competition.
-- *2024.08*: &nbsp;🎉🎉 Ranked 38/1066 on the NVIDIA & Alibaba: Better-Synth: Multimodal Large Model Data Synthesis Challenge. 
+- *2024.09*: &nbsp;🏆 Ranked 27/521 on the National Information Center of China: Video Recognition for City Management Competition.
+- *2024.08*: &nbsp;🏆 Ranked 38/1066 on the NVIDIA & Alibaba: Better-Synth: Multimodal Large Model Data Synthesis Challenge.
+- *2024.08*: &nbsp;🔎 First time invited as a reviewer for IEEE Transactions on Automation Science and Engineering (T-ASE)!
 
 # 📝 Publications 
 
 - [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0), **Binhua Huang**, Senlin Fang, Meng Yin et al. **Intelligent Service Robotics (2024)**
 - [GelPixel: A Single-Pixel-Based Tactile Sensor](https://doi.org/10.1109/RCAR58764.2023.10249300), **Binhua Huang**, Xiaoyu Li, Putra Sumari et al. **Intelligent Service Robotics (2023)**
+
+# 👨‍💻 Service
+- Review for **IEEE Transactions on Automation Science and Engineering (T-ASE)** [2024]
+- Review for **IEEE International Conference on Robotics and Automation (ICRA)** [2023]
+- Review for **IEEE Biomedical Circuits and Systems Conference (BioCAS)** [2023]
+- Review for **Wiley International Journal of Circuit Theory and Applications** [2023]
 
 
 # 📖 Educations
