@@ -38,7 +38,7 @@ My research interest include computer vision. I have published several papers wi
 - Review for Wiley International Journal of Circuit Theory and Applications [2023]
 
 # 👨‍💻 Experience
-- RA SIAT China, Intelligent Systems and Robot Learning Lab (ISRL) [2021.08 - 2023.09]
+- RA CAS-SIAT China, Intelligent Systems and Robot Learning Lab [2021.08 - 2023.09]
 
 # 📖 Educations
 - PhD. UCD Ireland, Electrical & Electronics Engineering, advisor: Deepu John
