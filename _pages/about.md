@@ -43,3 +43,4 @@ My research interest include computer vision. I have published several papers wi
 # 📖 Educations
 - PhD. UCD Ireland, Electrical & Electronics Engineering, advisor: Deepu John
 - M.S. USM Malaysia, Computer Science, advisor: Putra Sumari
+- B.S. UP UK, Computing and Information Systems
