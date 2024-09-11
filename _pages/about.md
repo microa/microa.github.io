@@ -21,7 +21,7 @@ My research interest include computer vision. I have published several papers wi
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🏆 Ranked 27/522 on the National Information Center of China: **Video Recognition for City Management Competition**.
+- *2024.09*: &nbsp;🏆 Ranked 13/523 on the National Information Center of China: **Video Recognition for City Management Competition**.
 - *2024.08*: &nbsp;🏆 Ranked 38/1066 on the **NVIDIA** and **Alibaba**: Better-Synth: **Multimodal Large Model Data Synthesis Challenge**.
 - *2024.08*: &nbsp;🔎 First time invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
 - *2024.07*: &nbsp;🏅 Obtained a new certification: **Visual Perception** from **Columbia University**!
