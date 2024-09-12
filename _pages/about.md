@@ -32,9 +32,9 @@ My research interest include computer vision. I have published several papers wi
 - [GelPixel: A Single-Pixel-Based Tactile Sensor](https://doi.org/10.1109/RCAR58764.2023.10249300), **B. Huang**, X. Li, P. Sumari et al. **IEEE - RCAR (2023)**
 
 # 👨‍💻 Service
-- Review for IEEE Transactions on Automation Science and Engineering (T-ASE) [2024]
-- Review for IEEE International Conference on Robotics and Automation (ICRA) [2023]
-- Review for IEEE Biomedical Circuits and Systems Conference (BioCAS) [2023]
+- Review for IEEE Transactions on Automation Science and Engineering (**T-ASE**) [2024]
+- Review for IEEE International Conference on Robotics and Automation (**ICRA**) [2023]
+- Review for IEEE Biomedical Circuits and Systems Conference (**BioCAS**) [2023]
 - Review for Wiley International Journal of Circuit Theory and Applications [2023]
 
 # 👨‍💻 Experience
@@ -43,4 +43,4 @@ My research interest include computer vision. I have published several papers wi
 # 📖 Educations
 - PhD. UCD Ireland, Electrical & Electronics Engineering, advisor: Deepu John
 - M.S. USM Malaysia, Computer Science, advisor: Putra Sumari
-- B.S. UP UK, Computing and Information Systems
+- B.S. UoP UK, Computing and Information Systems
