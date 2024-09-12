@@ -21,8 +21,8 @@ My research interest include computer vision. I have published several papers wi
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🏆 Ranked top2.5% out of over 500 teams(over 500 teams)<!--13/523--> at National Information Center of China: **Video Recognition for City Management Competition**, using only a single RTX 3090.
-- *2024.08*: &nbsp;🏆 Ranked top3.5% out of over 1000 teams<!--38/1066--> at **NVIDIA** and **Alibaba**: Better-Synth: **Multimodal Large Model Data Synthesis Challenge**, using only a single RTX 3090.
+- *2024.09*: &nbsp;🏆 Ranked top2.5%(over 500 teams)<!--13/523--> at National Information Center of China: **Video Recognition for City Management Competition**, using only a single RTX 3090.
+- *2024.08*: &nbsp;🏆 Ranked top3.5%(over 1000 teams)<!--38/1066--> at **NVIDIA** and **Alibaba**: **Multimodal Large Model Data Synthesis Challenge**, using only a single RTX 3090.
 - *2024.08*: &nbsp;🔎 First time invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
 - *2024.07*: &nbsp;🏅 Obtained a new certification: **Visual Perception** from **Columbia University**!
 
