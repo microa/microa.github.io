@@ -27,10 +27,10 @@ My research interest include computer vision. I have published several papers wi
 - *2024.07*: &nbsp;🏅 Obtained a new certification: **Visual Perception** from **Columbia University**!
 
 # 👨‍💻 Research Focuses
-- Image Caption [2024.07 - present]
-- Model Compression [2023.09 - 2024.06]
-- Tactile Sensing ([Research Outputs](robotics.md)) [2021.08 - 2023.08]
-- Embedded Systems ([Research Outputs](https://youtu.be/n4Au37AL_gw))[prior to 2023]
+- Image Caption (Outputs)[2024.07 - present]
+- Model Compression (Outputs) [2023.09 - 2024.06]
+- Tactile Sensing ([Outputs](robotics.md)) [2021.08 - 2023.08]
+- Embedded Systems ([Outputs](https://youtu.be/n4Au37AL_gw))[prior to 2023]
 
 # 📝 Publications 
 
