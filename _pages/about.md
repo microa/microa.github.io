@@ -26,6 +26,12 @@ My research interest include computer vision. I have published several papers wi
 - *2024.08*: &nbsp;🔎 First time invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
 - *2024.07*: &nbsp;🏅 Obtained a new certification: **Visual Perception** from **Columbia University**!
 
+# 👨‍💻 Research Focuses
+- Image Caption (AI) [2024.07 - present]
+- Model Compression (Machine Learning) [2023.09 - 2024.06]
+- Tactile Sensing (Robotics) [2021.08 - 2023.08]
+- Embedded Systems [prior to 2023]
+
 # 📝 Publications 
 
 - [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0), **B. Huang**, S. Fang, M. Yin et al. **Springer - Intelligent Service Robotics (2024)**
@@ -40,12 +46,6 @@ My research interest include computer vision. I have published several papers wi
 
 # 👨‍💻 Experience
 - RA CAS-SIAT China, Intelligent Systems and Robot Learning Lab [2021.08 - 2023.09]
-
-# 👨‍💻 Research Focuses
-- Image Caption (AI) [2024.07 - present]
-- Model Compression (Machine Learning) [2023.09 - 2024.06]
-- Tactile Sensing (Robotics) [2021.08 - 2023.08]
-- Embedded Systems [prior to 2023]
 
 # 📖 Educations
 - PhD. UCD Ireland, Electrical & Electronics Engineering, advisor: Deepu John
