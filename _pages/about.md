@@ -36,7 +36,7 @@ My research interest include computer vision. I have published several papers wi
 - Reviewer, **IEEE ICRA** [2023]
 - Reviewer, **IEEE BioCAS** [2023]
 - Reviewer, **Wiley IJCTA** [2023]
-- Conference Volunteer, **IEEE RCAR** [2023]
+- Volunteer, **IEEE RCAR** [2023]
 
 # 👨‍💻 Experience
 - RA CAS-SIAT China, Intelligent Systems and Robot Learning Lab [2021.08 - 2023.09]
