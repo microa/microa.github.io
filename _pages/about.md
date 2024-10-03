@@ -43,7 +43,7 @@ My research interest include computer vision. I have published several papers wi
 
 # 👨‍💻 Research Focuses
 - Image Caption (AI) [2024.07 - present]
-- Model Compression & Acceleration (Machine Learning) [2023.09 - 2024.06]
+- Model Compression (Machine Learning) [2023.09 - 2024.06]
 - Tactile Sensing (Robotics) [2021.08 - 2023.08]
 - Embedded Systems [prior to 2023]
 
