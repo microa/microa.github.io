@@ -27,15 +27,16 @@ My research interest include computer vision. I have published several papers wi
 - *2024.07*: &nbsp;🏅 Obtained a new certification: **Visual Perception** from **Columbia University**!
 
 # 👨‍💻 Research Focuses
-- Image Caption (AI) [2024.07 - present]
-- Model Compression (Machine Learning) [2023.09 - 2024.06]
-- Tactile Sensing (Robotics) [2021.08 - 2023.08]
-- Embedded Systems [prior to 2023]
+- Image Caption [2024.07 - present]
+- Model Compression [2023.09 - 2024.06]
+- Tactile Sensing ([Research Outputs](robotics.md)) [2021.08 - 2023.08]
+- Embedded Systems ([Research Outputs](https://youtu.be/n4Au37AL_gw))[prior to 2023]
 
 # 📝 Publications 
 
 - [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0), **B. Huang**, S. Fang, M. Yin et al. **Springer - Intelligent Service Robotics (2024)**
 - [GelPixel: A Single-Pixel-Based Tactile Sensor](https://doi.org/10.1109/RCAR58764.2023.10249300), **B. Huang**, X. Li, P. Sumari et al. **IEEE - RCAR (2023)**
+- More paper on [Google Scholar](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
 # 👨‍💻 Service
 - Reviewer, **IEEE T-ASE** [2024]
