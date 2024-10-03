@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest include computer vision. I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. 
+My research interest include computer vision. I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. <br>
 
 
 # 🔥 News
@@ -32,13 +32,20 @@ My research interest include computer vision. I have published several papers wi
 - [GelPixel: A Single-Pixel-Based Tactile Sensor](https://doi.org/10.1109/RCAR58764.2023.10249300), **B. Huang**, X. Li, P. Sumari et al. **IEEE - RCAR (2023)**
 
 # 👨‍💻 Service
-- Review for IEEE Transactions on Automation Science and Engineering (**T-ASE**) [2024]
-- Review for IEEE International Conference on Robotics and Automation (**ICRA**) [2023]
-- Review for IEEE Biomedical Circuits and Systems Conference (**BioCAS**) [2023]
-- Review for Wiley International Journal of Circuit Theory and Applications [2023]
+- Reviewer, **IEEE T-ASE** [2024]
+- Reviewer, **IEEE ICRA** [2023]
+- Reviewer, **IEEE BioCAS** [2023]
+- Reviewer, **Wiley IJCTA** [2023]
+- Conference Volunteer, **IEEE RCAR** [2023]
 
 # 👨‍💻 Experience
 - RA CAS-SIAT China, Intelligent Systems and Robot Learning Lab [2021.08 - 2023.09]
+
+# 👨‍💻 Research Focuses
+- Image Caption (AI) [2024.07 - present]
+- Model Compression & Acceleration (Machine Learning) [2023.09 - 2024.06]
+- Tactile Sensing (Robotics) [2021.08 - 2023.08]
+- Embedded Systems [prior to 2023]
 
 # 📖 Educations
 - PhD. UCD Ireland, Electrical & Electronics Engineering, advisor: Deepu John
