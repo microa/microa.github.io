@@ -27,10 +27,10 @@ My research interest include computer vision. I have published several papers wi
 - *2024.07*: &nbsp;🏅 Obtained a new certification: **Visual Perception** from **Columbia University**!
 
 # 👨‍💻 Research Focuses
-- Image Caption (Outputs)[2024.07 - present]
-- Model Compression (Outputs) [2023.09 - 2024.06]
-- Tactile Sensing ([Outputs](robotics.md)) [2021.08 - 2023.08]
-- Embedded Systems ([Outputs](https://youtu.be/n4Au37AL_gw))[prior to 2023]
+- 2024.07 - present: &nbsp; Image Caption (Outputs)
+- 2023.09 - 2024.06: &nbsp; Model Compression (Outputs)
+- 2021.08 - 2023.08: &nbsp; Tactile Sensing ([Outputs](robotics.md))
+- prior to 2023: &nbsp; Embedded Systems ([Outputs](https://youtu.be/n4Au37AL_gw))
 
 # 📝 Publications 
 
@@ -39,11 +39,11 @@ My research interest include computer vision. I have published several papers wi
 - More paper on [Google Scholar](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
 # 👨‍💻 Service
-- Reviewer, **IEEE T-ASE** [2024]
-- Reviewer, **IEEE ICRA** [2023]
-- Reviewer, **IEEE BioCAS** [2023]
-- Reviewer, **Wiley IJCTA** [2023]
-- Volunteer, **IEEE RCAR** [2023]
+- 2024: &nbsp; Reviewer, **IEEE T-ASE**
+- 2023: &nbsp; Reviewer, **IEEE ICRA**
+- 2023: &nbsp; Reviewer, **IEEE BioCAS**
+- 2023: &nbsp; Reviewer, **Wiley IJCTA**
+- 2023: &nbsp; Volunteer, **IEEE RCAR**
 
 # 👨‍💻 Experience
 - RA CAS-SIAT China, Intelligent Systems and Robot Learning Lab [2021.08 - 2023.09]
