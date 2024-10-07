@@ -29,7 +29,7 @@ My research interest include computer vision. I have published several papers wi
 # 👨‍💻 Research Focuses
 - Image Caption (Outputs) [2024.07 - present]
 - Model Compression (Outputs) [2023.09 - 2024.06]
-- Tactile Sensing ([Outputs](https://github.com/microa/SIAT)) [2021.08 - 2023.08]
+- Tactile Perception ([Outputs](https://github.com/microa/SIAT)) [2021.08 - 2023.08]
 - Embedded Systems ([Outputs](https://github.com/microa/IoT_Comm_System)) [prior to 2023]
 
 # 📝 Publications 
