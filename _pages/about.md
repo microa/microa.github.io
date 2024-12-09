@@ -42,11 +42,8 @@ My research interest include computer vision. I have published several papers wi
 - More paper on [**Google Scholar**](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
 # 👨‍💻 Service
-- Reviewer, **IEEE T-ASE** [2024]
-- Reviewer, **IEEE ICRA** [2023]
-- Reviewer, **IEEE BioCAS** [2023]
-- Reviewer, **Wiley IJCTA** [2023]
-- Volunteer, **IEEE RCAR** [2023]
+- Reviewer for **IEEE T-ASE**, **IEEE ICRA**, **IEEE BioCAS**, **Wiley IJCTA**
+- Volunteer for **IEEE RCAR** 
 
 # 🏃‍♂️ Personal life
 - 🏃‍♂️ Completed two marathons (42.195 km)
