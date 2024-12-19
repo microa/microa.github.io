@@ -23,7 +23,7 @@ My research interest include computer vision < machine learning < artificial int
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**) again!
+- *2024.12*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
 - *2024.11*: &nbsp;👨‍🎓 Obtained a new certification: **Neural Network and Deep Learning** from **DeepLearning.AI**!
 - *2024.09*: &nbsp;🏆 Ranked top2.5%<!--13/523--> at National Information Center: **Video Recognition for City Management Competition**!
 - *2024.08*: &nbsp;🏆 Ranked top3.5%<!--38/1066--> at **NVIDIA** and **Alibaba**: **Multimodal Large Model Data Synthesis Challenge**!
