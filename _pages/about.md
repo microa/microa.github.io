@@ -23,7 +23,6 @@ My research interest include computer vision < machine learning < artificial int
 
 
 # 🔥 News
-- *2025.01*: &nbsp;👨‍🎓 Obtained a new certification: **AI Agent Engineer** from **Datawhale** & **Ant Group**!
 - *2024.12*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
 - *2024.11*: &nbsp;👨‍🎓 Obtained a new certification: **Neural Network and Deep Learning** from **DeepLearning.AI**!
 - *2024.09*: &nbsp;🏆 Ranked top2.5%<!--13/523--> at National Information Center: **Video Recognition for City Management Competition**!
