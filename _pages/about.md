@@ -20,7 +20,6 @@ redirect_from:
 <!--**"Freedom is doing what you love, regardless of the outcome."** <br>-->
 
 My research interest include computer vision < machine learning < artificial intelligence. I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. <br>
-Currently, I am a PhD student at UCD under the supervision of Deepu John. Prior to this, I worked as a research assistant at the Intelligence Systems and Robot Learning Lab, Shenzhen Institute of Advanced Technology, CAS, with my supervisor Zhengkun Yi. My academic journey began in 2021 when I was a master's student in the Computer Science Department at USM, supervised by Putra Sumari. <br>
 
 # 🔥 News
 - *2024.12*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
