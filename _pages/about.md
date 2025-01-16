@@ -47,8 +47,8 @@ Xiaolin Li, **Binhua Huang**, Barry Cardiff, Deepu John
 
 - DCenNet, a distributed and decentralized multistage inferencing architecture for anomaly detection of biomedical signals. 
 - Partitioning a large CNN network into multiple sub-networks with EEPs to deploy the model across different nodes in the Edge–Cloud continuum. 
-- Exploration of various EEP combinations for the proposed architecture and finding a trade-off between complexity and performance utilizing a genetic algorithm. 
-- The proposed approach addresses the limitations associated with a centralized cloud-based system in terms of high inferencing latency and energy consumption, as well as an edge-based system in terms of limited performance and computational capability. 
+- Exploration of various EEP combinations and finding a trade-off between complexity and performance utilizing a genetic algorithm. 
+- Deployed the model to edge-based systems with limited computing capabilities and evaluated improvements in power consumption.
 
 </div></div>
 
