@@ -38,7 +38,7 @@ My research interest include computer vision < machine learning < artificial int
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/DCentNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/DCentNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DCentNet: Decentralized multistage biomedical signal classification using early exits](https://doi.org/10.1016/j.bspc.2024.107468)
@@ -46,6 +46,8 @@ My research interest include computer vision < machine learning < artificial int
 Xiaolin Li, **Binhua Huang**, Barry Cardiff, Deepu John
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+</div></div>
 
 - [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0), **B. Huang**, S. Fang, M. Yin et al. **Springer - Intelligent Service Robotics [2024]**
 - [GelPixel: A Single-Pixel-Based Tactile Sensor](https://doi.org/10.1109/RCAR58764.2023.10249300), **B. Huang**, X. Li, P. Sumari et al. **IEEE - RCAR [2023]**
