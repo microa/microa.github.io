@@ -38,7 +38,7 @@ My research interest include computer vision < machine learning < artificial int
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/DCentNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DCentNet: Decentralized multistage biomedical signal classification using early exits](https://doi.org/10.1016/j.bspc.2024.107468)
