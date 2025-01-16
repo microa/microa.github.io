@@ -22,7 +22,7 @@ redirect_from:
 My research interest include computer vision < machine learning < artificial intelligence. I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. <br>
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉 A paper is published: [code](https://github.com/microa/DCentNet) [paper](https://doi.org/10.1016/j.bspc.2024.107468)
+- *2025.01*: &nbsp;🎉 A paper is published: [code](https://github.com/microa/DCentNet) [paper](https://doi.org/10.1016/j.bspc.2024.107468)
 - *2024.12*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
 - *2024.11*: &nbsp;👨‍🎓 Obtained a new certification: **Neural Network and Deep Learning** from **DeepLearning.AI**!
 - *2024.09*: &nbsp;🏆 Ranked top2.5%<!--13/523--> at National Information Center: **Video Recognition for City Management Competition**!
