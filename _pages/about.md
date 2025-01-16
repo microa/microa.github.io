@@ -45,7 +45,10 @@ My research interest include computer vision < machine learning < artificial int
 
 Xiaolin Li, **Binhua Huang**, Barry Cardiff, Deepu John
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- DCenNet, a distributed and decentralized multistage inferencing architecture for anomaly detection of biomedical signals is proposed.
+- Partitioning a large CNN network into multiple sub-networks with EEPs to deploy the model across different nodes in the Edge–Cloud continuum.
+- Exploration of various EEP combinations for the proposed architecture and finding a trade-off between complexity and performance utilizing a genetic algorithm.
+- The proposed approach addresses the limitations associated with a centralized cloud-based system in terms of high inferencing latency and energy consumption, as well as an edge-based system in terms of limited performance and computational capability.
 
 </div></div>
 
