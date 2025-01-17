@@ -62,12 +62,4 @@ Xiaolin Li, **Binhua Huang**, Barry Cardiff, Deepu John
 
 # 🏃‍♂️ Personal life
 - 🏃‍♂️ Completed two marathons (42.195 km)
-
-
-# Something
-We humans are suffering from disease, poverty, and even a lack of basic life-support materials. <br>
-Even the richest people cannot fight equally against nature. <br>
-How weak we are, and how brutally the physical laws mock us. <br>
-Without science, we would suffer even more, just as we did thousands of years ago. <br>
-With science, we can make everything better. <br>
-I am inspired to be on the path of fighting for mankind, even though the result might ultimately be in vain. <br>
+<br>
