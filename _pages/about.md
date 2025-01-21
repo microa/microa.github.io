@@ -20,6 +20,10 @@ redirect_from:
 <!--**"Freedom is doing what you love, regardless of the outcome."** <br>-->
 
 My research interest include computer vision < machine learning < artificial intelligence. I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. <br>
+<br>
+<span style="color:red">I have several promising projects ongoing but lack the necessary computing power. If you have extra funding or GPUs and are interested in collaborating on papers or tech startups, please don’t hesitate to contact me. </span>.
+<br>
+<br>
 
 # 🔥 News
 - *2025.01*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
