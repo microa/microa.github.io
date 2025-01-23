@@ -24,14 +24,10 @@ My research interest include computer vision < machine learning < artificial int
 <br>
 
 # 🔥 News
-- *2025.01*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**) again!
-- *2025.01*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
 - *2025.01*: &nbsp;🎉 A new article is published, check it out here: [code](https://github.com/microa/DCentNet) \| [paper](https://doi.org/10.1016/j.bspc.2024.107468)
-- *2024.12*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
 - *2024.11*: &nbsp;👨‍🎓 Obtained a new certification: **Neural Network and Deep Learning** from **DeepLearning.AI**!
 - *2024.09*: &nbsp;🏆 Ranked top2.5%<!--13/523--> at National Information Center: **Video Recognition for City Management Competition**!
 - *2024.08*: &nbsp;🏆 Ranked top3.5%<!--38/1066--> at **NVIDIA** and **Alibaba**: **Multimodal Large Model Data Synthesis Challenge**!
-- *2024.08*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
 - *2024.07*: &nbsp;👨‍🎓 Obtained a new certification: **Visual Perception** from **Columbia University**!
 
 # 👨‍💻 Research Focuses
@@ -61,7 +57,7 @@ Xiaolin Li, **Binhua Huang**, Barry Cardiff, Deepu John
 - More papers on [**Google Scholar**](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
 # 👨‍💻 Service
-- Reviewer for **IEEE T-ASE**, **IEEE ICRA**, **IEEE BioCAS**, **Wiley IJCTA**
+- Reviewer for **IEEE T-ASE** x4, **IEEE ICRA**, **IEEE BioCAS**, **Wiley IJCTA**
 - Volunteer for **IEEE RCAR** 
 
 # 🏃‍♂️ Personal life
