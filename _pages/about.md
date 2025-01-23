@@ -26,6 +26,7 @@ My research interest include computer vision < machine learning < artificial int
 <br>
 
 # 🔥 News
+- *2025.01*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**) again!
 - *2025.01*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
 - *2025.01*: &nbsp;🎉 A new article is published, check it out here: [code](https://github.com/microa/DCentNet) \| [paper](https://doi.org/10.1016/j.bspc.2024.107468)
 - *2024.12*: &nbsp;🔎 Invited as a reviewer for IEEE Transactions on Automation Science and Engineering (**IEEE T-ASE**)!
