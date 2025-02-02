@@ -57,8 +57,8 @@ Xiaolin Li, **Binhua Huang**, Barry Cardiff, Deepu John
 - More papers on [**Google Scholar**](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
 # 👨‍💻 Service
-- Reviewer for **IEEE T-ASE** x4, **IEEE ICRA**, **IEEE BioCAS**, **Wiley IJCTA**
-- Volunteer for **IEEE RCAR** 
+- Reviewer - **IEEE T-ASE** x4, **IEEE ICRA**
+- Session Assistant - **IEEE RCAR** 
 
 # 🏃‍♂️ Personal life
 - 🏃‍♂️ Completed two marathons (42.195 km)
