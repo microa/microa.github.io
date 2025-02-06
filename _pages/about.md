@@ -24,6 +24,7 @@ My research interest include computer vision < machine learning < artificial int
 <br>
 
 # 🔥 News
+- *2025.02*: &nbsp;👨‍🎓 Obtained a new certification: **LLM Agents** from **UC Berkeley**!
 - *2025.01*: &nbsp;🎉 A new article is published, check it out here: [code](https://github.com/microa/DCentNet) \| [paper](https://doi.org/10.1016/j.bspc.2024.107468)
 - *2024.11*: &nbsp;👨‍🎓 Obtained a new certification: **Neural Network and Deep Learning** from **DeepLearning.AI**!
 - *2024.09*: &nbsp;🏆 Ranked top2.5%<!--13/523--> at National Information Center: **Video Recognition for City Management Competition**!
