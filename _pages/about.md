@@ -20,8 +20,6 @@ redirect_from:
 <!--**"Freedom is doing what you love, regardless of the outcome."** <br>-->
 
 
-<br>
-
 **Vision is the primal interface where photons meet consciousness - for carbon and silicon alike.**
 <br>
 
