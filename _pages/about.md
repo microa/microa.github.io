@@ -22,6 +22,7 @@ redirect_from:
 My research interest include computer vision < machine learning < artificial intelligence. I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. <br>
 <br>
 <br>
+**Vision is the primal interface where photons meet consciousness - for carbon and silicon alike.**
 
 # 🔥 News
 - *2025.02*: &nbsp;👨‍🎓 Obtained a new certification: **LLM Agents** from **UC Berkeley**!
