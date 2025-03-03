@@ -6,14 +6,14 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Research Focuses"
+    url: "/#-Research-Focuses"
+
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Service"
-    url: "/#-educations"
+    url: "/#-Service"
 
   - title: "Personal life"
-    url: "/#-invited-talks"
+    url: "/#-Personal-life"
