@@ -39,7 +39,6 @@ My research interest include computer vision & artificial intelligence.
 - Video Recognition (Outputs) [2024.07 - present]
 - Model Compression ([Outputs](https://github.com/microa/DSCEE)) [2023.09 - 2024.06]
 - Embodied Intelligence ([Outputs](https://github.com/microa/Robotics)) [2021.08 - 2023.08]
-- Embedded Systems ([Outputs](https://github.com/microa/Embedded_Projects)) [prior to 2021]
 
 # 📝 Publications 
 
