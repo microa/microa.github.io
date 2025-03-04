@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-**Vision is the primal interface where photons meet consciousness - for carbon and silicon alike.**
+**Vision is the interface where photons meet consciousness - for carbon and silicon alike.**
 <br>
 
 My research interest include computer vision & artificial intelligence. 
