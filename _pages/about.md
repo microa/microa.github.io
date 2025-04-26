@@ -49,7 +49,7 @@ My research interest include computer vision & artificial intelligence.
 - More papers on [Google Scholar](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
 # 👨‍💻 Service
-- Reviewer - IEEE T-ASE x5, IEEE ICRA
+- Reviewer - ACM MM x3, IEEE T-ASE x5, IEEE ICRA x1
 - Session Assistant - IEEE RCAR 
 
 # 🏃‍♂️ Personal life
