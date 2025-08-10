@@ -47,53 +47,13 @@ My research interest include computer vision, machine learning and artificial in
 - Embodied Intelligence ([Outputs](https://github.com/microa/Robotics)) [2021.08 - 2023.08]
 - Embedded Systems ([Outputs](https://github.com/microa/Embedded_Projects)) [prior to 2021]
 -->
-<style>
-.research-table {
-  display: table;
-  border-collapse: collapse;
-  width: 100%;
-  font-size: 16px;
-}
-.research-row {
-  display: table-row;
-}
-.research-cell {
-  display: table-cell;
-  padding: 4px 16px 4px 0;
-  vertical-align: top;
-}
-.research-cell:nth-child(1) { width: 50%; }
-.research-cell:nth-child(2) { width: 20%; }
-.research-cell:nth-child(3) { width: 30%; }
-</style>
-
-<div class="research-table">
-  <div class="research-row">
-    <div class="research-cell"><b>VLM, MLLM, World Models</b></div>
-    <div class="research-cell">—</div>
-    <div class="research-cell">2025.08 – present</div>
-  </div>
-  <div class="research-row">
-    <div class="research-cell"><b>Video Recognition</b></div>
-    <div class="research-cell">—</div>
-    <div class="research-cell">2024.07 – present</div>
-  </div>
-  <div class="research-row">
-    <div class="research-cell"><b>Model Compression</b></div>
-    <div class="research-cell"><a href="https://github.com/microa/DSCEE">Outputs</a></div>
-    <div class="research-cell">2023.09 – 2024.06</div>
-  </div>
-  <div class="research-row">
-    <div class="research-cell"><b>Embodied Intelligence</b></div>
-    <div class="research-cell"><a href="https://github.com/microa/Robotics">Outputs</a></div>
-    <div class="research-cell">2021.08 – 2023.08</div>
-  </div>
-  <div class="research-row">
-    <div class="research-cell"><b>Embedded Systems</b></div>
-    <div class="research-cell"><a href="https://github.com/microa/Embedded_Projects">Outputs</a></div>
-    <div class="research-cell">prior to 2021</div>
-  </div>
-</div>
+| Research Focuses          | Outputs                                                  | Dates              |
+| :------------------------ | :------------------------------------------------------- | :----------------- |
+| VLM, MLLM, World Models   | (Outputs)                                                | 2025.08 - present  |
+| Video Recognition         | (Outputs)                                                | 2024.07 - present  |
+| Model Compression         | [Outputs](https://github.com/microa/DSCEE)               | 2023.09 - 2024.06  |
+| Embodied Intelligence     | [Outputs](https://github.com/microa/Robotics)            | 2021.08 - 2023.08  |
+| Embedded Systems          | [Outputs](https://github.com/microa/Embedded_Projects)   | prior to 2021      |
 
 
 
