@@ -51,8 +51,8 @@ My research interest include computer vision, machine learning and artificial in
 VLM, MLLM, World Models   <a href="#">(Outputs)</a>               2025.08 - present
 Video Recognition         <a href="#">(Outputs)</a>               2024.07 - present
 Model Compression         <a href="https://github.com/microa/DSCEE">(Outputs)</a>               2023.09 - 2024.06
-Embodied Intelligence     <a href="https://github.com/microa/Robotics">(Outputs)</a>            2021.08 - 2023.08
-Embedded Systems          <a href="https://github.com/microa/Embedded_Projects">(Outputs)</a>   prior to 2021
+Embodied Intelligence     <a href="https://github.com/microa/Robotics">(Outputs)</a>               2021.08 - 2023.08
+Embedded Systems          <a href="https://github.com/microa/Embedded_Projects">(Outputs)</a>               prior to 2021
 </pre>
 
 
