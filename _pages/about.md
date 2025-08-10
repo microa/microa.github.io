@@ -47,33 +47,54 @@ My research interest include computer vision, machine learning and artificial in
 - Embodied Intelligence ([Outputs](https://github.com/microa/Robotics)) [2021.08 - 2023.08]
 - Embedded Systems ([Outputs](https://github.com/microa/Embedded_Projects)) [prior to 2021]
 -->
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="padding: 4px 16px 4px 0;"><b>VLM, MLLM, World Models</b></td>
-    <td style="padding: 4px 16px;">—</td>
-    <td style="padding: 4px 0;">2025.08 – present</td>
-  </tr>
-  <tr>
-    <td style="padding: 4px 16px 4px 0;"><b>Video Recognition</b></td>
-    <td style="padding: 4px 16px;">—</td>
-    <td style="padding: 4px 0;">2024.07 – present</td>
-  </tr>
-  <tr>
-    <td style="padding: 4px 16px 4px 0;"><b>Model Compression</b></td>
-    <td style="padding: 4px 16px;"><a href="https://github.com/microa/DSCEE">Outputs</a></td>
-    <td style="padding: 4px 0;">2023.09 – 2024.06</td>
-  </tr>
-  <tr>
-    <td style="padding: 4px 16px 4px 0;"><b>Embodied Intelligence</b></td>
-    <td style="padding: 4px 16px;"><a href="https://github.com/microa/Robotics">Outputs</a></td>
-    <td style="padding: 4px 0;">2021.08 – 2023.08</td>
-  </tr>
-  <tr>
-    <td style="padding: 4px 16px 4px 0;"><b>Embedded Systems</b></td>
-    <td style="padding: 4px 16px;"><a href="https://github.com/microa/Embedded_Projects">Outputs</a></td>
-    <td style="padding: 4px 0;">prior to 2021</td>
-  </tr>
-</table>
+<style>
+.research-table {
+  display: table;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 16px;
+}
+.research-row {
+  display: table-row;
+}
+.research-cell {
+  display: table-cell;
+  padding: 4px 16px 4px 0;
+  vertical-align: top;
+}
+.research-cell:nth-child(1) { width: 50%; }
+.research-cell:nth-child(2) { width: 20%; }
+.research-cell:nth-child(3) { width: 30%; }
+</style>
+
+<div class="research-table">
+  <div class="research-row">
+    <div class="research-cell"><b>VLM, MLLM, World Models</b></div>
+    <div class="research-cell">—</div>
+    <div class="research-cell">2025.08 – present</div>
+  </div>
+  <div class="research-row">
+    <div class="research-cell"><b>Video Recognition</b></div>
+    <div class="research-cell">—</div>
+    <div class="research-cell">2024.07 – present</div>
+  </div>
+  <div class="research-row">
+    <div class="research-cell"><b>Model Compression</b></div>
+    <div class="research-cell"><a href="https://github.com/microa/DSCEE">Outputs</a></div>
+    <div class="research-cell">2023.09 – 2024.06</div>
+  </div>
+  <div class="research-row">
+    <div class="research-cell"><b>Embodied Intelligence</b></div>
+    <div class="research-cell"><a href="https://github.com/microa/Robotics">Outputs</a></div>
+    <div class="research-cell">2021.08 – 2023.08</div>
+  </div>
+  <div class="research-row">
+    <div class="research-cell"><b>Embedded Systems</b></div>
+    <div class="research-cell"><a href="https://github.com/microa/Embedded_Projects">Outputs</a></div>
+    <div class="research-cell">prior to 2021</div>
+  </div>
+</div>
+
 
 
 # 📝 Publications 
