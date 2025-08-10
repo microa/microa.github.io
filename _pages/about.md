@@ -40,11 +40,41 @@ My research interest include computer vision, machine learning and artificial in
 - *2024.07*: &nbsp;👨‍🎓 Obtained a new certification: Visual Perception from Columbia University!
 
 # 👨‍💻 Research Focuses
+<!--
 - VLM, MLLM, World Models (Outputs) [2025.08 - present]
 - Video Recognition (Outputs) [2024.07 - present]
 - Model Compression ([Outputs](https://github.com/microa/DSCEE)) [2023.09 - 2024.06]
 - Embodied Intelligence ([Outputs](https://github.com/microa/Robotics)) [2021.08 - 2023.08]
 - Embedded Systems ([Outputs](https://github.com/microa/Embedded_Projects)) [prior to 2021]
+-->
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding: 4px 16px 4px 0;"><b>VLM, MLLM, World Models</b></td>
+    <td style="padding: 4px 16px;">—</td>
+    <td style="padding: 4px 0;">2025.08 – present</td>
+  </tr>
+  <tr>
+    <td style="padding: 4px 16px 4px 0;"><b>Video Recognition</b></td>
+    <td style="padding: 4px 16px;">—</td>
+    <td style="padding: 4px 0;">2024.07 – present</td>
+  </tr>
+  <tr>
+    <td style="padding: 4px 16px 4px 0;"><b>Model Compression</b></td>
+    <td style="padding: 4px 16px;"><a href="https://github.com/microa/DSCEE">Outputs</a></td>
+    <td style="padding: 4px 0;">2023.09 – 2024.06</td>
+  </tr>
+  <tr>
+    <td style="padding: 4px 16px 4px 0;"><b>Embodied Intelligence</b></td>
+    <td style="padding: 4px 16px;"><a href="https://github.com/microa/Robotics">Outputs</a></td>
+    <td style="padding: 4px 0;">2021.08 – 2023.08</td>
+  </tr>
+  <tr>
+    <td style="padding: 4px 16px 4px 0;"><b>Embedded Systems</b></td>
+    <td style="padding: 4px 16px;"><a href="https://github.com/microa/Embedded_Projects">Outputs</a></td>
+    <td style="padding: 4px 0;">prior to 2021</td>
+  </tr>
+</table>
+
 
 # 📝 Publications 
 
