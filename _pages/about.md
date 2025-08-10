@@ -47,35 +47,13 @@ My research interest include computer vision, machine learning and artificial in
 - Embodied Intelligence ([Outputs](https://github.com/microa/Robotics)) [2021.08 - 2023.08]
 - Embedded Systems ([Outputs](https://github.com/microa/Embedded_Projects)) [prior to 2021]
 -->
-<table style="border-collapse: collapse; border-spacing: 0; border: none; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="padding-right: 2em; white-space: nowrap; font-weight: bold;">VLM, MLLM, World Models</td>
-      <td style="padding-right: 2em;"><a href="#">(Outputs)</a></td>
-      <td style="width: 100%; text-align: left;">2025.08 - present</td>
-    </tr>
-    <tr>
-      <td style="padding-right: 2em; white-space: nowrap; font-weight: bold;">Video Recognition</td>
-      <td style="padding-right: 2em;"><a href="#">(Outputs)</a></td>
-      <td style="width: 100%; text-align: left;">2024.07 - present</td>
-    </tr>
-    <tr>
-      <td style="padding-right: 2em; white-space: nowrap; font-weight: bold;">Model Compression</td>
-      <td style="padding-right: 2em;"><a href="https://github.com/microa/DSCEE">(Outputs)</a></td>
-      <td style="width: 100%; text-align: left;">2023.09 - 2024.06</td>
-    </tr>
-    <tr>
-      <td style="padding-right: 2em; white-space: nowrap; font-weight: bold;">Embodied Intelligence</td>
-      <td style="padding-right: 2em;"><a href="https://github.com/microa/Robotics">(Outputs)</a></td>
-      <td style="width: 100%; text-align: left;">2021.08 - 2023.08</td>
-    </tr>
-    <tr>
-      <td style="padding-right: 2em; white-space: nowrap; font-weight: bold;">Embedded Systems</td>
-      <td style="padding-right: 2em;"><a href="https://github.com/microa/Embedded_Projects">(Outputs)</a></td>
-      <td style="width: 100%; text-align: left;">prior to 2021</td>
-    </tr>
-  </tbody>
-</table>
+<pre>
+VLM, MLLM, World Models   <a href="#">(Outputs)</a>               2025.08 - present
+Video Recognition         <a href="#">(Outputs)</a>               2024.07 - present
+Model Compression         <a href="https://github.com/microa/DSCEE">(Outputs)</a>               2023.09 - 2024.06
+Embodied Intelligence     <a href="https://github.com/microa/Robotics">(Outputs)</a>            2021.08 - 2023.08
+Embedded Systems          <a href="https://github.com/microa/Embedded_Projects">(Outputs)</a>   prior to 2021
+</pre>
 
 
 
