@@ -18,8 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-**Vision is the interface where photons meet consciousness - for carbon and silicon alike.**  
-<br>
+**👁️Vision is the interface where photons meet consciousness - for carbon and silicon alike.**  
+
+<!--
+Hi👋! I'm a CS Ph.D. candidate at UCD, fortunate to be advised by Prof. Soumyabrata Dev.  
+During my masters, I was privileged to work closely with Prof. Zhengkun Yi and Prof. Putra Sumari on several research projects.  
+-->
 
 My research interest include computer vision, machine learning and artificial intelligence.  
 <!--I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. -->
@@ -36,6 +40,7 @@ My research interest include computer vision, machine learning and artificial in
 - *2024.07*: &nbsp;👨‍🎓 Obtained a new certification: Visual Perception from Columbia University!
 
 # 👨‍💻 Research Focuses
+- VLM, MLLM, World Models (Outputs) [2025.08 - present]
 - Video Recognition (Outputs) [2024.07 - present]
 - Model Compression ([Outputs](https://github.com/microa/DSCEE)) [2023.09 - 2024.06]
 - Embodied Intelligence ([Outputs](https://github.com/microa/Robotics)) [2021.08 - 2023.08]
