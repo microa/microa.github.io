@@ -20,11 +20,6 @@ redirect_from:
 
 **👁️Vision is the interface where photons meet consciousness - for carbon and silicon alike.**  
 
-<!--
-Hi👋! I'm a CS Ph.D. candidate at UCD, fortunate to be advised by Prof. Soumyabrata Dev.  
-During my masters, I was privileged to work closely with Prof. Zhengkun Yi and Prof. Putra Sumari on several research projects.  
--->
-
 My research interest include computer vision, machine learning and artificial intelligence.  
 <!--I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. -->
 
@@ -65,7 +60,7 @@ My research interest include computer vision, machine learning and artificial in
 - More papers on [Google Scholar](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
 # 👨‍💻 Service
-- Reviewer - IEEE TIM x1, ACM MM x3, IEEE T-ASE x6, IEEE ICRA x1
+- Reviewer - AAAI x4, IEEE TIM x1, ACM MM x3, IEEE T-ASE x6, IEEE ICRA x1
 - Session Assistant - IEEE RCAR 
 
 # 🏃‍♂️ Personal life
