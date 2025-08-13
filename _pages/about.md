@@ -20,8 +20,14 @@ redirect_from:
 
 **👁️Vision is the interface where photons meet consciousness - for carbon and silicon alike.**  
 
-My research interest include computer vision, machine learning and artificial intelligence.  
-<!--I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. -->
+Hi 👋! I’m a CS Ph.D. candidate at UCD in the Vision and Analytics Lab (<a href="https://soumyabrata.dev/theia/">THEIA Lab</a>), working with Prof. <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>.  
+
+I previously served as a research assistant at <a href="http://english.siat.cas.cn/">SIAT</a>, collaborating with Prof. <a href="https://scholar.google.com/citations?user=LggfIykAAAAJ&hl=en">Zhengkun Yi</a>, and earned my M.S. degree from <a href="https://www.usm.my/en/">USM</a> under the supervision of Prof. <a href="https://scholar.google.com/citations?user=OehI3nsAAAAJ&hl=en">Putra Sumari</a>.  
+
+My current research focuses on computer vision, machine learning, and AI.  
+
+<!--I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. 
+-->
 
 <br>
 
@@ -43,11 +49,11 @@ My research interest include computer vision, machine learning and artificial in
 - Embedded Systems ([Outputs](https://github.com/microa/Embedded_Projects)) [prior to 2021]
 -->
 <pre>
- • VLM, MLLM, World Models     <a href="#">(Outputs)</a>       2025.08 - present
- • Video Recognition           <a href="#">(Outputs)</a>       2024.07 - present
- • Model Compression           <a href="https://github.com/microa/DSCEE">(Outputs)</a>       2023.09 - 2024.06
- • Embodied Intelligence       <a href="https://github.com/microa/Robotics">(Outputs)</a>       2021.08 - 2023.08
- • Embedded Systems            <a href="https://github.com/microa/Embedded_Projects">(Outputs)</a>        prior  - 2021
+ • VLM, MLLM, World Models     (Outputs)       2025.08 - present
+ • Video Recognition           (Outputs)       2024.07 - present
+ • Model Compression           (<a href="https://github.com/microa/DSCEE">Outputs</a>)       2023.09 - 2024.06
+ • Embodied Intelligence       (<a href="https://github.com/microa/Robotics">Outputs</a> )      2021.08 - 2023.08
+ • Embedded Systems            (<a href="https://github.com/microa/Embedded_Projects">Outputs</a> )       prior  - 2021
 </pre>
 
 
