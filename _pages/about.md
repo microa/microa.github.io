@@ -63,8 +63,9 @@ My current research focuses on computer vision, machine learning, and AI.
 
 # 📝 Publications 
 
-- [DCentNet: Decentralized multistage biomedical signal classification using early exits](https://doi.org/10.1016/j.bspc.2024.107468), X. Li, B. Huang, B. Cardiff, D. John Biomedical Signal Processing and Control [2025]
-- [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0), B. Huang, S. Fang, M. Yin et al. Springer - Intelligent Service Robotics [2024]
+- [Optimal Brain Connection: Towards Efficient Structural Pruning](https://arxiv.org/abs/2508.05521), S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John arXiv preprint [2025]
+- [DCentNet: Decentralized multistage biomedical signal classification using early exits](https://doi.org/10.1016/j.bspc.2024.107468), X. Li, **B. Huang**, B. Cardiff, D. John Biomedical Signal Processing and Control [2025]
+- [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0), **B. Huang**, S. Fang, M. Yin et al. Springer - Intelligent Service Robotics [2024]
 
 - More papers on [Google Scholar](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
