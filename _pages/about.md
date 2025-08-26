@@ -36,12 +36,15 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 🔥 News
+- *2025.08*: &nbsp;📝 New preprint released: [Optimal Brain Connection: Towards Efficient Structural Pruning](https://arxiv.org/abs/2508.05521)
 - *2025.02*: &nbsp;👨‍🎓 Obtained a new certification: LLM Agents from UC Berkeley!
-- *2025.01*: &nbsp;🎉 A new article is published, check it out here: [code](https://github.com/microa/DCentNet) \| [paper](https://doi.org/10.1016/j.bspc.2024.107468)
+- *2025.01*: &nbsp;📝 New journal article published: [DCentNet: Decentralized multistage biomedical signal classification using early exits](https://doi.org/10.1016/j.bspc.2024.107468) \| [code](https://github.com/microa/DCentNet)
 - *2024.11*: &nbsp;👨‍🎓 Obtained a new certification: Neural Network and Deep Learning from DeepLearning.AI!
 - *2024.09*: &nbsp;🏆 Ranked top2.5%<!--13/523--> at National Information Center: Video Recognition for City Management Competition!
 - *2024.08*: &nbsp;🏆 Ranked top3.5%<!--38/1066--> at NVIDIA and Alibaba: Multimodal Large Model Data Synthesis Challenge!
 - *2024.07*: &nbsp;👨‍🎓 Obtained a new certification: Visual Perception from Columbia University!
+- *2024.02*: &nbsp;📝 New journal article published: [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0)
+
 
 # 👨‍💻 Research Focuses
 <!--
@@ -62,10 +65,6 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 📝 Publications 
-
-- [Optimal Brain Connection: Towards Efficient Structural Pruning](https://arxiv.org/abs/2508.05521), S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John arXiv preprint [2025]
-- [DCentNet: Decentralized multistage biomedical signal classification using early exits](https://doi.org/10.1016/j.bspc.2024.107468), X. Li, **B. Huang**, B. Cardiff, D. John Biomedical Signal Processing and Control [2025]
-- [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0), **B. Huang**, S. Fang, M. Yin et al. Springer - Intelligent Service Robotics [2024]
 
 - More papers on [Google Scholar](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
