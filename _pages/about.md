@@ -43,7 +43,6 @@ My current research focuses on computer vision, machine learning, and AI.
 - *2024.09*: &nbsp;🏆 Ranked top2.5%<!--13/523--> at National Information Center: Video Recognition for City Management Competition!
 - *2024.08*: &nbsp;🏆 Ranked top3.5%<!--38/1066--> at NVIDIA and Alibaba: Multimodal Large Model Data Synthesis Challenge!
 - *2024.07*: &nbsp;👨‍🎓 Obtained a new certification: Visual Perception from Columbia University!
-- *2024.02*: &nbsp;📝 New journal article published: [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0)
 
 
 # 👨‍💻 Research Focuses
