@@ -20,12 +20,11 @@ redirect_from:
 
 **👁️Vision is the interface where photons meet consciousness - for carbon and silicon alike.**  
 
-<!--
+
 Hi 👋! I’m a CS Ph.D. candidate at UCD in the Vision and Analytics Lab (<a href="https://soumyabrata.dev/theia/">THEIA Lab</a>), working with Prof. <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>.  
--->
-<!--
+
 I previously served as a research assistant at <a href="http://english.siat.cas.cn/">SIAT</a>, collaborating with Prof. <a href="https://scholar.google.com/citations?user=LggfIykAAAAJ&hl=en">Zhengkun Yi</a>, and earned my M.S. degree from <a href="https://www.usm.my/en/">USM</a> under the supervision of Prof. <a href="https://scholar.google.com/citations?user=OehI3nsAAAAJ&hl=en">Putra Sumari</a>.  
--->
+
 
 My current research focuses on computer vision, machine learning, and AI.  
 
@@ -43,24 +42,6 @@ My current research focuses on computer vision, machine learning, and AI.
 - *2024.07*: &nbsp;👨‍🎓 Obtained a new certification: Visual Perception from Columbia University!
 
 
-# 👨‍💻 Research Focuses
-<!--
-- VLM, MLLM, World Models (Outputs) [2025.08 - present]
-- Video Recognition (Outputs) [2024.07 - present]
-- Model Compression ([Outputs](https://github.com/microa/DSCEE)) [2023.09 - 2024.06]
-- Embodied Intelligence ([Outputs](https://github.com/microa/Robotics)) [2021.08 - 2023.08]
-- Embedded Systems ([Outputs](https://github.com/microa/Embedded_Projects)) [prior to 2021]
--->
-<pre>
- • VLM, MLLM, World Models     (Outputs)       2025.08 - present
- • Video Recognition           (Outputs)       2024.07 - present
- • Model Compression           (<a href="https://github.com/microa/DSCEE">Outputs</a>)       2023.09 - 2024.06
- • Embodied Intelligence       (<a href="https://github.com/microa/Robotics">Outputs</a>)       2021.08 - 2023.08
- • Embedded Systems            (<a href="https://github.com/microa/Embedded_Projects">Outputs</a>)        prior  - 2021
-</pre>
-
-
-
 # 📝 Publications 
 
 - [Optimal Brain Connection: Towards Efficient Structural Pruning](https://arxiv.org/abs/2508.05521), S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John arXiv preprint [2025]
@@ -71,7 +52,16 @@ My current research focuses on computer vision, machine learning, and AI.
 
 # 👨‍💻 Service
 - Reviewer - AAAI x4, IEEE TIM x2, ACM MM x3, IEEE T-ASE x6, IEEE ICRA x1
-- Session Assistant - IEEE RCAR 
+- Session Assistant - IEEE RCAR
+
+# 👨‍💻 Research Focuses
+<pre>
+ • VLM, MLLM, World Models     (Outputs)       2025.08 - present
+ • Video Recognition           (Outputs)       2024.07 - present
+ • Model Compression           (<a href="https://github.com/microa/DSCEE">Outputs</a>)       2023.09 - 2024.06
+ • Embodied Intelligence       (<a href="https://github.com/microa/Robotics">Outputs</a>)       2021.08 - 2023.08
+ • Embedded Systems            (<a href="https://github.com/microa/Embedded_Projects">Outputs</a>)        prior  - 2021
+</pre>
 
 # 🏃‍♂️ Personal life
 - 🏃‍♂️ Completed two marathons (42.195 km)
