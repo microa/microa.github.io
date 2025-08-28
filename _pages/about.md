@@ -35,11 +35,11 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 🔥 News
-- *2025.02*: &nbsp;👨‍🎓 Obtained a new certification: LLM Agents from UC Berkeley!
+- *2025.02*: &nbsp;👨‍🎓 Obtained a new certification: LLM Agents from **UC Berkeley**!
 - *2024.11*: &nbsp;👨‍🎓 Obtained a new certification: Neural Network and Deep Learning from DeepLearning.AI!
 - *2024.09*: &nbsp;🏆 Ranked top2.5%<!--13/523--> at National Information Center: Video Recognition for City Management Competition!
-- *2024.08*: &nbsp;🏆 Ranked top3.5%<!--38/1066--> at NVIDIA and Alibaba: Multimodal Large Model Data Synthesis Challenge!
-- *2024.07*: &nbsp;👨‍🎓 Obtained a new certification: Visual Perception from Columbia University!
+- *2024.08*: &nbsp;🏆 Ranked top3.5%<!--38/1066--> at **NVIDIA** and **Alibaba**: Multimodal Large Model Data Synthesis Challenge!
+- *2024.07*: &nbsp;👨‍🎓 Obtained a new certification: Visual Perception from **Columbia University**!
 
 
 # 📝 Publications 
