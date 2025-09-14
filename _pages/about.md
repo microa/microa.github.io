@@ -51,7 +51,7 @@ My current research focuses on computer vision, machine learning, and AI.
 - More papers on [Google Scholar](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
 # 👨‍💻 Service
-- Reviewer - AAAI x4, IEEE TIM x3, ACM MM x3, IEEE T-ASE x7, IEEE ICRA x1
+- Reviewer - AAAI, ACM MM, ICRA, IEEE T-ASE, IEEE TIM
 - Session Assistant - IEEE RCAR
 
 # 👨‍💻 Research Focuses
