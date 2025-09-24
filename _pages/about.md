@@ -35,7 +35,9 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 🔥 News
-- *2025.09*: &nbsp;📝 Three new papers on arXiv: [MoCLIP-Lite](https://arxiv.org/abs/2509.17084) [[Code]](https://github.com/microa/MoCLIP-Lite), [MVP](https://arxiv.org/abs/2509.18388) [[Code]](https://github.com/microa/MVP), [MoCrop](https://arxiv.org/abs/2509.18473) [[Code]](https://github.com/microa/MoCrop)
+- *2025.09*: &nbsp;📝 Preprinted MoCLIP-Lite on arXiv: [paper](https://arxiv.org/abs/2509.17084) [[code]](https://github.com/microa/MoCLIP-Lite)
+- *2025.09*: &nbsp;📝 Preprinted MVP on arXiv: [paper](https://arxiv.org/abs/2509.18388) [[code]](https://github.com/microa/MVP)
+- *2025.09*: &nbsp;📝 Preprinted MoCrop on arXiv: [paper](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
 - *2025.02*: &nbsp;👨‍🎓 Obtained a new certification: LLM Agents from **UC Berkeley**!
 - *2024.11*: &nbsp;👨‍🎓 Obtained a new certification: Neural Network and Deep Learning from DeepLearning.AI!
 - *2024.09*: &nbsp;🏆 Ranked top2.5%<!--13/523--> at National Information Center: Video Recognition for City Management Competition!
@@ -43,11 +45,12 @@ My current research focuses on computer vision, machine learning, and AI.
 - *2024.07*: &nbsp;👨‍🎓 Obtained a new certification: Visual Perception from **Columbia University**!
 
 
-# 📝 Publications 
+# 📝 Latest Publications 
 
 - [MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors](https://arxiv.org/abs/2509.17084), **B. Huang**, N. Wang, A. Parakash, S. Dev arXiv preprint [2025] [[Code]](https://github.com/microa/MoCLIP-Lite)
 - [MVP: Motion Vector Propagation for Zero-Shot Video Object Detection](https://arxiv.org/abs/2509.18388), **B. Huang**, N. Wang, W. Yao, S. Dev arXiv preprint [2025] [[Code]](https://github.com/microa/MVP)
 - [MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition](https://arxiv.org/abs/2509.18473), **B. Huang**, W. Yao, S. Chen, G. Wang, Q. Wang, S. Dev arXiv preprint [2025] [[Code]](https://github.com/microa/MoCrop)
+- [TinyDrop: Tiny Model Guided Token Dropping for Vision Transformers](https://arxiv.org/abs/2509.03379), G. Wang, Q. Wang, **B. Huang**, S. Chen, D. John arXiv preprint [2025]
 - [Optimal Brain Connection: Towards Efficient Structural Pruning](https://arxiv.org/abs/2508.05521), S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John arXiv preprint [2025]
 - [DCentNet: Decentralized multistage biomedical signal classification using early exits](https://doi.org/10.1016/j.bspc.2024.107468  ), X. Li, **B. Huang**, B. Cardiff, D. John Biomedical Signal Processing and Control [2025]
 - [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0  ), **B. Huang**, S. Fang, M. Yin et al. Springer - Intelligent Service Robotics [2024]
@@ -60,11 +63,11 @@ My current research focuses on computer vision, machine learning, and AI.
 
 # 👨‍💻 Research Focuses
 <pre>
- • VLM, MLLM, World Models     (Outputs)       2025.08 - present
- • Video Recognition           (Outputs)       2024.07 - present
- • Model Compression           (<a href="https://github.com/microa/DSCEE">Outputs</a>)       2023.09 - 2024.06
- • Embodied Intelligence       (<a href="https://github.com/microa/Robotics">Outputs</a>)       2021.08 - 2023.08
- • Embedded Systems            (<a href="https://github.com/microa/Embedded_Projects">Outputs</a>)        prior  - 2021
+ • VLM, MLLM, World Models     (<a href="/vlm-mllm/">Outputs</a>)       2025.08 - present
+ • Video Recognition           (<a href="/video-recognition/">Outputs</a>)       2024.07 - present
+ • Model Compression           (<a href="/model-compression/">Outputs</a>)       2023.09 - 2024.06
+ • Embodied Intelligence       (<a href="/robotics/">Outputs</a>)       2021.08 - 2023.08
+
 </pre>
 
 # 🏃‍♂️ Personal life
