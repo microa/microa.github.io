@@ -47,13 +47,35 @@ My current research focuses on computer vision, machine learning, and AI.
 
 # 📝 Latest Publications 
 
-- [MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors](https://arxiv.org/abs/2509.17084), **B. Huang**, N. Wang, A. Parakash, S. Dev arXiv preprint [2025] [[Code]](https://github.com/microa/MoCLIP-Lite)
-- [MVP: Motion Vector Propagation for Zero-Shot Video Object Detection](https://arxiv.org/abs/2509.18388), **B. Huang**, N. Wang, W. Yao, S. Dev arXiv preprint [2025] [[Code]](https://github.com/microa/MVP)
-- [MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition](https://arxiv.org/abs/2509.18473), **B. Huang**, W. Yao, S. Chen, G. Wang, Q. Wang, S. Dev arXiv preprint [2025] [[Code]](https://github.com/microa/MoCrop)
-- [TinyDrop: Tiny Model Guided Token Dropping for Vision Transformers](https://arxiv.org/abs/2509.03379), G. Wang, Q. Wang, **B. Huang**, S. Chen, D. John arXiv preprint [2025]
-- [Optimal Brain Connection: Towards Efficient Structural Pruning](https://arxiv.org/abs/2508.05521), S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John arXiv preprint [2025]
-- [DCentNet: Decentralized multistage biomedical signal classification using early exits](https://doi.org/10.1016/j.bspc.2024.107468  ), X. Li, **B. Huang**, B. Cardiff, D. John Biomedical Signal Processing and Control [2025]
-- [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0  ), **B. Huang**, S. Fang, M. Yin et al. Springer - Intelligent Service Robotics [2024]
+**2025**
+- [MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors](https://arxiv.org/abs/2509.17084)  
+  **B. Huang**, N. Wang, A. Parakash, S. Dev  
+  arXiv preprint [2025] [[Code]](https://github.com/microa/MoCLIP-Lite)
+
+- [MVP: Motion Vector Propagation for Zero-Shot Video Object Detection](https://arxiv.org/abs/2509.18388)  
+  **B. Huang**, N. Wang, W. Yao, S. Dev  
+  arXiv preprint [2025] [[Code]](https://github.com/microa/MVP)
+
+- [MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition](https://arxiv.org/abs/2509.18473)  
+  **B. Huang**, W. Yao, S. Chen, G. Wang, Q. Wang, S. Dev  
+  arXiv preprint [2025] [[Code]](https://github.com/microa/MoCrop)
+
+- [TinyDrop: Tiny Model Guided Token Dropping for Vision Transformers](https://arxiv.org/abs/2509.03379)  
+  G. Wang, Q. Wang, **B. Huang**, S. Chen, D. John  
+  arXiv preprint [2025]
+
+- [Optimal Brain Connection: Towards Efficient Structural Pruning](https://arxiv.org/abs/2508.05521)  
+  S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John  
+  arXiv preprint [2025]
+
+- [DCentNet: Decentralized multistage biomedical signal classification using early exits](https://doi.org/10.1016/j.bspc.2024.107468)  
+  X. Li, **B. Huang**, B. Cardiff, D. John  
+  Biomedical Signal Processing and Control [2025] [[Code]](https://github.com/microa/DSCEE)
+
+**2024**
+- [Dynamic liquid volume estimation using optical tactile sensors and spiking neural network](https://doi.org/10.1007/s11370-023-00488-0)  
+  **B. Huang**, S. Fang, M. Yin et al.  
+  Springer - Intelligent Service Robotics [2024]
 
 - More papers on [Google Scholar](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
 
