@@ -23,7 +23,7 @@ redirect_from:
 
 Hi 👋! I’m a CS Ph.D. candidate at UCD in the Vision and Analytics Lab (<a href="https://soumyabrata.dev/theia/">THEIA Lab</a>), working with Prof. <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>.  
 
-I previously served as a research assistant at <a href="http://english.siat.cas.cn/">SIAT</a>, collaborating with Prof. <a href="https://scholar.google.com/citations?user=LggfIykAAAAJ&hl=en">Zhengkun Yi</a>, and earned my M.S. degree in Computer Science from <a href="https://www.usm.my/en/">USM</a> under the supervision of Prof. <a href="https://scholar.google.com/citations?user=OehI3nsAAAAJ&hl=en">Putra Sumari</a>.  
+I previously served as a research assistant at <a href="https://www.siat.ac.cn/">SIAT</a>, <a href="https://english.cas.cn/">CAS</a>. collaborating with Prof. <a href="https://scholar.google.com/citations?user=LggfIykAAAAJ&hl=en">Zhengkun Yi</a>, and earned my M.S. degree in Computer Science from <a href="https://www.usm.my/en/">USM</a> under the supervision of Prof. <a href="https://scholar.google.com/citations?user=OehI3nsAAAAJ&hl=en">Putra Sumari</a>.  
 
 
 My current research focuses on computer vision, machine learning, and AI.  
