@@ -35,6 +35,7 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🤝 Contributed **Motion-Vectors-Only** (skip-decoding frames) to **mv-extractor**; acknowledged upstream and listed as contributor. [[upstream]](https://github.com/LukasBommes/mv-extractor) [[my fork]](https://github.com/microa/hs-mv-extractor) [[PyPI]](https://pypi.org/project/motion-vector-extractor/)
 - *2025.09*: &nbsp;📝 Preprinted MoCLIP-Lite on arXiv: [paper](https://arxiv.org/abs/2509.17084) [[code]](https://github.com/microa/MoCLIP-Lite)
 - *2025.09*: &nbsp;📝 Preprinted MVP on arXiv: [paper](https://arxiv.org/abs/2509.18388) [[code]](https://github.com/microa/MVP)
 - *2025.09*: &nbsp;📝 Preprinted MoCrop on arXiv: [paper](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
@@ -78,6 +79,15 @@ My current research focuses on computer vision, machine learning, and AI.
   Springer - Intelligent Service Robotics [2024] [[Paper]](https://doi.org/10.1007/s11370-023-00488-0)
 
 - More papers on [Google Scholar](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
+
+# 🧩 Open-Source Contributions
+- **mv-extractor** — Contributor (2025)  
+  A fast H.264/MPEG-4 motion-vector extractor with optional RGB decode skipping.  
+  • Key: Implemented **Motion-Vectors-Only** / frame-decode skipping mode; docs & tests; acknowledged upstream.  
+  • Links: [Upstream](https://github.com/LukasBommes/mv-extractor) · [My fork](https://github.com/microa/hs-mv-extractor) · [PyPI](https://pypi.org/project/motion-vector-extractor/)  
+  <a href="https://github.com/LukasBommes/mv-extractor"><img alt="GitHub stars" src="https://img.shields.io/github/stars/LukasBommes/mv-extractor?style=social"></a>
+  <a href="https://pypi.org/project/motion-vector-extractor/"><img alt="PyPI" src="https://img.shields.io/pypi/v/motion-vector-extractor"></a>
+
 
 # 👨‍💻 Service
 - Reviewer - AAAI, ACM MM, ICRA, IEEE T-ASE, IEEE TIM
