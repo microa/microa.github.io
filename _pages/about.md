@@ -39,6 +39,7 @@ My current research focuses on computer vision, machine learning, and AI.
 - *2025.09*: &nbsp;📝 Preprinted MoCLIP-Lite on arXiv: [paper](https://arxiv.org/abs/2509.17084) [[code]](https://github.com/microa/MoCLIP-Lite)
 - *2025.09*: &nbsp;📝 Preprinted MVP on arXiv: [paper](https://arxiv.org/abs/2509.18388) [[code]](https://github.com/microa/MVP)
 - *2025.09*: &nbsp;📝 Preprinted MoCrop on arXiv: [paper](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
+- *2025.07*：&nbsp;👨‍🎓 Obtained a new certification: Deep Learning with PyTorch : Image Segmentation from Coursera!
 - *2025.02*: &nbsp;👨‍🎓 Obtained a new certification: LLM Agents from **UC Berkeley**!
 - *2024.11*: &nbsp;👨‍🎓 Obtained a new certification: Neural Network and Deep Learning from DeepLearning.AI!
 - *2024.09*: &nbsp;🏆 Ranked top2.5%<!--13/523--> at National Information Center: Video Recognition for City Management Competition!
