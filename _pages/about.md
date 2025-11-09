@@ -96,9 +96,9 @@ My current research focuses on computer vision, machine learning, and AI.
 
 # 👨‍💻 Research Focuses
 <pre>
- • Video Recognition           (<a href="/video-recognition/">Outputs</a>)       2025.01 - present
- • Model Compression           (<a href="/model-compression/">Outputs</a>)       2023.09 - 2025.01
- • Embodied Intelligence       (<a href="/robotics/">Outputs</a>)       2021.08 - 2023.08
+ • Video Recognition           (<a href="/video-recognition/">Outputs</a>)       2025 - present
+ • Model Compression           (<a href="/model-compression/">Outputs</a>)       2023 - 2025
+ • Embodied Intelligence       (<a href="/robotics/">Outputs</a>)       2021 - 2023
 
 </pre>
 
