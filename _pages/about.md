@@ -35,7 +35,7 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 🔥 News
-- *2025.12*: &nbsp;👨‍💻 Joined an AI startup as an AI Algorithm Developer (Research & Deploy AI-Agents for AIGC applications, Intern)
+- *2025.12*: &nbsp;👨‍💻 Joined an AI startup as an AI Algorithm Developer (Video Agents, Intern)
 - *2025.10*: &nbsp;🤝 Contributed **MV-Only** (high-speed mode) to **mv-extractor**. [[upstream]](https://github.com/LukasBommes/mv-extractor) [[my fork]](https://github.com/microa/hs-mv-extractor) [[PyPI]](https://pypi.org/project/motion-vector-extractor/)
 - *2025.09*: &nbsp;📝 Preprinted MoCLIP-Lite on arXiv: [paper](https://arxiv.org/abs/2509.17084) [[code]](https://github.com/microa/MoCLIP-Lite)
 - *2025.09*: &nbsp;📝 Preprinted MVP on arXiv: [paper](https://arxiv.org/abs/2509.18388) [[code]](https://github.com/microa/MVP)
@@ -92,15 +92,15 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 👨‍💻 Service
-- Reviewer - AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IEEE TIP, IEEE T-ASE, IEEE TIM
+- Reviewer - AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IJCNN, IEEE TIP, IEEE T-ASE, IEEE TIM
 - Session Assistant - IEEE RCAR
 
 
 
 # 👨‍💻 Research Focuses
 <pre>
- • AIGC                        (Outputs)       2025 - present
- • Video Recognition           (<a href="/video-recognition/">Outputs</a>)       2025 - present
+ • Video Generation            (Outputs)       2026 - present
+ • Video Understanding         (<a href="/video-recognition/">Outputs</a>)       2025 - present
  • Model Compression           (<a href="/model-compression/">Outputs</a>)       2023 - 2025
  • Embodied Intelligence       (<a href="/robotics/">Outputs</a>)       2021 - 2023
 
