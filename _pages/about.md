@@ -37,6 +37,7 @@ My current research focuses on computer vision, machine learning, and AI.
 # 🔥 News
 - *2026.03*: &nbsp;📝 MoCrop has been accepted at IEEE IJCNN. [paper](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
 - *2026.02*: &nbsp;📝 MoCLIP-Lite has been accepted at IEEE CISP and is now available on IEEE Xplore: [paper](https://ieeexplore.ieee.org/abstract/document/11259157) [[code]](https://github.com/microa/MoCLIP-Lite)
+- *2026.01*: &nbsp;📝 TinyDrop has been accepted at IEEE ICASSP!
 - *2025.12*: &nbsp;👨‍💻 Joined an AI startup as an AI Algorithm Developer (Video Agents, Intern)
 - *2025.10*: &nbsp;🤝 Contributed **MV-Only** (high-speed mode) to **mv-extractor**. [[upstream]](https://github.com/LukasBommes/mv-extractor) [[my fork]](https://github.com/microa/hs-mv-extractor) [[PyPI]](https://pypi.org/project/motion-vector-extractor/)
 - *2025.09*: &nbsp;📝 Preprinted MoCLIP-Lite on arXiv: [paper](https://arxiv.org/abs/2509.17084) [[code]](https://github.com/microa/MoCLIP-Lite)
@@ -52,6 +53,15 @@ My current research focuses on computer vision, machine learning, and AI.
 
 # 📝 Latest Publications 
 
+**2026**
+- **MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition**  
+  **B. Huang**, W. Yao, S. Chen, G. Wang, Q. Wang, S. Dev  
+  IEEE IJCNN [2026] [[Paper]](https://arxiv.org/abs/2509.18473) [[Code]](https://github.com/microa/MoCrop)
+
+- **TinyDrop: Tiny Model Guided Token Dropping for Vision Transformers**  
+  G. Wang, Q. Wang, **B. Huang**, S. Chen, D. John  
+  IEEE ICASSP [2026] [[Paper]](https://arxiv.org/abs/2509.03379)
+
 **2025**
 - **MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors**  
   **B. Huang**, N. Wang, A. Parakash, S. Dev  
@@ -60,14 +70,6 @@ My current research focuses on computer vision, machine learning, and AI.
 - **MVP: Motion Vector Propagation for Zero-Shot Video Object Detection**  
   **B. Huang**, N. Wang, W. Yao, S. Dev  
   arXiv preprint [2025] [[Paper]](https://arxiv.org/abs/2509.18388) [[Code]](https://github.com/microa/MVP)
-
-- **MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition**  
-  **B. Huang**, W. Yao, S. Chen, G. Wang, Q. Wang, S. Dev  
-  arXiv preprint [2025] [[Paper]](https://arxiv.org/abs/2509.18473) [[Code]](https://github.com/microa/MoCrop)
-
-- **TinyDrop: Tiny Model Guided Token Dropping for Vision Transformers**  
-  G. Wang, Q. Wang, **B. Huang**, S. Chen, D. John  
-  arXiv preprint [2025] [[Paper]](https://arxiv.org/abs/2509.03379)
 
 - **Optimal Brain Connection: Towards Efficient Structural Pruning**  
   S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John  
