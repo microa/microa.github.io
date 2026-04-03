@@ -96,8 +96,9 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 👨‍💻 Service
-- Reviewer - AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IJCNN, IEEE TIP, IEEE T-ASE, IEEE TIM
-- Session Assistant - IEEE RCAR
+- Reviewer - AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IEEE IJCNN, IEEE TIP, IEEE T-ASE, IEEE TIM
+- Technical Program Committee (TPC): IEEE Smart World Congress 2026
+- Session Assistant - IEEE RCAR 2023
 
 
 
@@ -111,5 +112,5 @@ My current research focuses on computer vision, machine learning, and AI.
 </pre>
 
 # 🏃‍♂️ Personal life
-- 🏃‍♂️ Completed two marathons (42.195 km)
-<br>
+- 🏃‍♂️ Completed two marathons (42.195 km)  
+<br><br>  
