@@ -96,7 +96,7 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 👨‍💻 Service
-- Reviewer - AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IEEE IJCNN, IEEE TIP, IEEE T-ASE, IEEE TIM
+- Reviewer - AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IEEE IJCNN, IEEE TIP, IEEE TMM, IEEE T-ASE, IEEE TIM
 - Technical Program Committee (TPC): IEEE Smart World Congress 2026
 - Session Assistant - IEEE RCAR 2023
 
