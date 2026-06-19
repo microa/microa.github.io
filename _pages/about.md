@@ -39,9 +39,7 @@ My current research focuses on computer vision, machine learning, and AI.
 - *2026.02*: &nbsp;📝 MoCLIP-Lite, developed under limited compute (single RTX 3090), has been accepted at IEEE CISP and is now available on IEEE Xplore: [paper](https://ieeexplore.ieee.org/abstract/document/11259157) [[code]](https://github.com/microa/MoCLIP-Lite)
 - *2026.01*: &nbsp;📝 TinyDrop has been accepted at IEEE ICASSP!
 - *2025.10*: &nbsp;🤝 Contributed **MV-Only** (high-speed mode) to **mv-extractor**. [[upstream]](https://github.com/LukasBommes/mv-extractor) [[my fork]](https://github.com/microa/hs-mv-extractor) [[PyPI]](https://pypi.org/project/motion-vector-extractor/)
-- *2025.09*: &nbsp;📝 Preprinted MoCLIP-Lite on arXiv: [paper](https://arxiv.org/abs/2509.17084) [[code]](https://github.com/microa/MoCLIP-Lite)
 - *2025.09*: &nbsp;📝 Preprinted MVP on arXiv: [paper](https://arxiv.org/abs/2509.18388) [[code]](https://github.com/microa/MVP)
-- *2025.09*: &nbsp;📝 Preprinted MoCrop on arXiv: [paper](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
 
 
 # 📝 Latest Publications 
