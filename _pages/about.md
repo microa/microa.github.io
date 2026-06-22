@@ -28,9 +28,6 @@ I previously served as a research assistant at <a href="https://www.siat.ac.cn/"
 
 My current research focuses on computer vision, machine learning, and AI.  
 
-<!--I have published several papers with total <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. 
--->
-
 <br>
 
 
@@ -75,7 +72,7 @@ My current research focuses on computer vision, machine learning, and AI.
   **B. Huang**, S. Fang, M. Yin et al.  
   Springer - Intelligent Service Robotics [2024] [[Paper]](https://doi.org/10.1007/s11370-023-00488-0)
 
-- More papers on <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+More papers on <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-WsVak2gAAAAJ-blue?style=flat&logo=Google%20Scholar&labelColor=f6f6f6"></a> <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🧩 Open-Source Contributions
 - **mv-extractor** — Contributor (2025)  
