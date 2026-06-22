@@ -35,8 +35,8 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 🔥 News
-- *2026.03*: &nbsp;📝 MoCrop, developed under limited compute (single RTX 3090), has been accepted at IEEE IJCNN. [paper](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
-- *2026.02*: &nbsp;📝 MoCLIP-Lite, developed under limited compute (single RTX 3090), has been accepted at IEEE CISP and is now available on IEEE Xplore: [paper](https://ieeexplore.ieee.org/abstract/document/11259157) [[code]](https://github.com/microa/MoCLIP-Lite)
+- *2026.03*: &nbsp;📝 MoCrop, has been accepted at IEEE IJCNN. [paper](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
+- *2026.02*: &nbsp;📝 MoCLIP-Lite, has been accepted at IEEE CISP and is now available on IEEE Xplore: [paper](https://ieeexplore.ieee.org/abstract/document/11259157) [[code]](https://github.com/microa/MoCLIP-Lite)
 - *2026.01*: &nbsp;📝 TinyDrop has been accepted at IEEE ICASSP!
 - *2025.10*: &nbsp;🤝 Contributed **MV-Only** (high-speed mode) to **mv-extractor**. [[upstream]](https://github.com/LukasBommes/mv-extractor) [[my fork]](https://github.com/microa/hs-mv-extractor) [[PyPI]](https://pypi.org/project/motion-vector-extractor/)
 - *2025.09*: &nbsp;📝 Preprinted MVP on arXiv: [paper](https://arxiv.org/abs/2509.18388) [[code]](https://github.com/microa/MVP)
@@ -75,7 +75,7 @@ My current research focuses on computer vision, machine learning, and AI.
   **B. Huang**, S. Fang, M. Yin et al.  
   Springer - Intelligent Service Robotics [2024] [[Paper]](https://doi.org/10.1007/s11370-023-00488-0)
 
-- More papers on [Google Scholar](https://scholar.google.com/citations?user=WsVak2gAAAAJ).
+- More papers on <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> google scholar citations. 
 
 # 🧩 Open-Source Contributions
 - **mv-extractor** — Contributor (2025)  
