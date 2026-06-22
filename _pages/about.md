@@ -87,10 +87,10 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 👨‍💻 Service
-- Session Chair - WCCI2026 (IEEE IJCNN) Tiny Machine Learning
-- Technical Program Committee (TPC) - IEEE Smart World Congress 2026
-- Session Assistant - IEEE RCAR 2023
-- Reviewer - IEEE TIP, IEEE TMM, IEEE T-ASE, IEEE TIM, AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IEEE IJCNN
+- Session Chair: WCCI2026 (IEEE IJCNN) Tiny Machine Learning
+- Technical Program Committee (TPC): IEEE Smart World Congress 2026
+- Session Assistant: IEEE RCAR 2023
+- Reviewer: IEEE TIP, IEEE TMM, IEEE T-ASE, IEEE TIM, AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IEEE IJCNN
 
 
 
