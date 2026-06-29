@@ -84,9 +84,9 @@ More papers on <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'>
 
 
 # 👨‍💻 Service
-- Session Chair: WCCI2026 (IEEE IJCNN) Tiny Machine Learning
-- Program Committee: AAAI2026, IEEE SWC2026
-- Session Assistant: IEEE RCAR 2023
+- Session Chair: IJCNN2026
+- Program Committee: AAAI2026, SWC2026
+- Session Assistant: RCAR2023
 - Reviewer: IEEE TIP, IEEE TMM, IEEE TASE, IEEE TIM, AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IEEE IJCNN, BMVC
 
 
