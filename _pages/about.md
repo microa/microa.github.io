@@ -32,6 +32,7 @@ My current research focuses on computer vision, machine learning, and AI.
 
 
 # 🔥 News
+- *2026.07*: &nbsp;📝 EarthCamQA, has been accepted at iEMSs and is now available on: [[Paper]](https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa.pdf) [[Code]](https://github.com/microa/realtime-urban-visual-qa)
 - *2026.03*: &nbsp;📝 MoCrop, has been accepted at IEEE IJCNN. [paper](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
 - *2026.02*: &nbsp;📝 MoCLIP-Lite, has been accepted at IEEE CISP and is now available on IEEE Xplore: [paper](https://ieeexplore.ieee.org/abstract/document/11259157) [[code]](https://github.com/microa/MoCLIP-Lite)
 - *2026.01*: &nbsp;📝 TinyDrop has been accepted at IEEE ICASSP!
@@ -42,35 +43,39 @@ My current research focuses on computer vision, machine learning, and AI.
 # 📝 Latest Publications 
 
 **2026**
+- EarthCamQA: An Agentic LLM–VLM Framework for Real-Time Visual Question Answering in Urban Environments
+  **B. Huang**, W. Yao, Y. Li, DA. Cabrera, S. Dev
+  iEMSs 2026 [[Paper]](https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa.pdf) [[Code]](https://github.com/microa/realtime-urban-visual-qa)
+
 - **MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition**  
   **B. Huang**, W. Yao, S. Chen, G. Wang, Q. Wang, S. Dev  
-  IEEE IJCNN [2026] [[Paper]](https://arxiv.org/abs/2509.18473) [[Code]](https://github.com/microa/MoCrop)
+  IEEE IJCNN 2026 [[Paper]](https://arxiv.org/abs/2509.18473) [[Code]](https://github.com/microa/MoCrop)
 
 - **TinyDrop: Tiny Model Guided Token Dropping for Vision Transformers**  
   G. Wang, Q. Wang, **B. Huang**, S. Chen, D. John  
-  IEEE ICASSP [2026] [[Paper]](https://arxiv.org/abs/2509.03379)
+  IEEE ICASSP 2026 [[Paper]](https://arxiv.org/abs/2509.03379)
 
 **2025**
 - **MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors**  
   **B. Huang**, N. Wang, A. Parakash, S. Dev  
-  IEEE CISP [2025] [[Paper]](https://ieeexplore.ieee.org/abstract/document/11259157) [[Code]](https://github.com/microa/MoCLIP-Lite)
+  IEEE CISP 2025 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11259157) [[Code]](https://github.com/microa/MoCLIP-Lite)
 
 - **MVP: Motion Vector Propagation for Zero-Shot Video Object Detection**  
   **B. Huang**, N. Wang, W. Yao, S. Dev  
-  arXiv preprint [2025] [[Paper]](https://arxiv.org/abs/2509.18388) [[Code]](https://github.com/microa/MVP)
+  arXiv preprint [[Paper]](https://arxiv.org/abs/2509.18388) [[Code]](https://github.com/microa/MVP)
 
 - **Optimal Brain Connection: Towards Efficient Structural Pruning**  
   S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John  
-  arXiv preprint [2025] [[Paper]](https://arxiv.org/abs/2508.05521)
+  arXiv preprint [[Paper]](https://arxiv.org/abs/2508.05521)
 
 - **DCentNet: Decentralized multistage biomedical signal classification using early exits**  
   X. Li, **B. Huang**, B. Cardiff, D. John  
-  Biomedical Signal Processing and Control [2025] [[Paper]](https://doi.org/10.1016/j.bspc.2024.107468) [[Code]](https://github.com/microa/DSCEE)
+  Biomedical Signal Processing and Control [[Paper]](https://doi.org/10.1016/j.bspc.2024.107468) [[Code]](https://github.com/microa/DSCEE)
 
 **2024**
 - **Dynamic liquid volume estimation using optical tactile sensors and spiking neural network**  
   **B. Huang**, S. Fang, M. Yin et al.  
-  Springer - Intelligent Service Robotics [2024] [[Paper]](https://doi.org/10.1007/s11370-023-00488-0)
+  Springer - Intelligent Service Robotics [[Paper]](https://doi.org/10.1007/s11370-023-00488-0)
 
 More papers on <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-grey?style=flat&logo=Google%20Scholar&labelColor=f6f6f6"></a> <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
