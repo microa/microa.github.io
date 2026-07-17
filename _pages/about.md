@@ -44,7 +44,7 @@ My current research focuses on computer vision, machine learning, and AI.
 
 **2026**
 - **EarthCamQA: An Agentic LLM–VLM Framework for Real-Time Visual Question Answering in Urban Environments**  
-  **B. Huang**, W. Yao, Y. Li, DA. Cabrera, S. Dev
+  **B. Huang**, W. Yao, Y. Li, DA. Cabrera, S. Dev  
   iEMSs 2026 [[Paper]](https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa.pdf) [[Code]](https://github.com/microa/realtime-urban-visual-qa)
 
 - **MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition**  
