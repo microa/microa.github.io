@@ -17,16 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
+  
 **👁️Vision is the interface where photons meet consciousness - for carbon and silicon alike.**  
 
 
-Hi 👋! I’m a CS Ph.D. candidate at <a href="https://www.ucd.ie/">UCD</a> in the Vision and Analytics Lab (<a href="https://soumyabrata.dev/theia/">THEIA Lab</a>), working with Prof. <a href="https://soumyabrata.dev/">Soumyabrata Dev</a>.  
-
-I previously served as a research assistant at <a href="https://www.siat.ac.cn/">SIAT</a>, <a href="https://english.cas.cn/">CAS</a>. collaborating with Prof. <a href="https://scholar.google.com/citations?user=LggfIykAAAAJ&hl=en">Zhengkun Yi</a>, and earned my M.S. degree in Computer Science from <a href="https://www.usm.my/en/">USM</a> under the supervision of Prof. <a href="https://scholar.google.com/citations?user=OehI3nsAAAAJ&hl=en">Putra Sumari</a>.  
-
-
-My current research focuses on computer vision, machine learning, and AI.  
+Hi 👋! I'm an AI researcher interested in building scalable multimodal systems and advancing visual intelligence.  
 
 <br>
 
