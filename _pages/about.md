@@ -87,7 +87,7 @@ More papers on <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'>
 - Session Chair: IJCNN2026
 - Program Committee: AAAI2026, SWC2026
 - Session Assistant: RCAR2023
-- Reviewer: IEEE TIP, IEEE TMM, IEEE TASE, IEEE TIM, AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IEEE IJCNN, BMVC
+- Reviewer: IEEE T-PAMI, IEEE T-IP, IEEE T-MM, IEEE T-ASE, IEEE T-IM, AAAI, ACM MM, IEEE ICRA, IEEE ICASSP, IEEE IJCNN, BMVC
 
 
 
