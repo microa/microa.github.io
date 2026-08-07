@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-  
-**👁️Vision is the interface where photons meet consciousness - for carbon and silicon alike.**  
 
 
 Hi 👋! I'm an AI researcher interested in building scalable multimodal systems and advancing visual intelligence.  
