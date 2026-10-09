@@ -39,7 +39,12 @@ Hi 👋! I'm an AI researcher interested in building scalable multimodal systems
 **2026**
 - **Training-Efficient Video Action Recognition Through Vision-Language Semantic Priors and Compressed-Domain Motion Fusion**  
   **B. Huang**, Z. Cui, W Yao, Y. Li, and S. Dev  
-  The Visual Computer  
+  The Visual Computer
+
+- **Optimal brain connection: Towards efficient structural pruning**
+  S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John
+  IEEE Transactions on Multimedia [[DOI: 10.1109/TMM.2026.3732964]](https://doi.org/10.1109/TMM.2026.3732964) 
+
 
 - **EarthCamQA: An Agentic LLM–VLM Framework for Real-Time Visual Question Answering in Urban Environments**  
   **B. Huang**, W. Yao, Y. Li, DA. Cabrera, S. Dev  
