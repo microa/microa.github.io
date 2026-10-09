@@ -26,6 +26,7 @@ Hi 👋! I'm an AI researcher interested in building scalable multimodal systems
 
 # 🔥 News
 - *2026.10*: &nbsp;📝 MoCLIP, has been accepted at The Visual Computer!
+- *2026.09*: &nbsp;📝 Optimal brain connection, has been accepted at IEEE Transactions on Multimedia and is now available on: [[Paper]](https://doi.org/10.1109/TMM.2026.3732964) 
 - *2026.07*: &nbsp;📝 EarthCamQA, has been accepted at iEMSs and is now available on: [[Paper]](https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa.pdf) [[Code]](https://github.com/microa/realtime-urban-visual-qa)
 - *2026.03*: &nbsp;📝 MoCrop, has been accepted at IEEE IJCNN. [paper](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
 - *2026.02*: &nbsp;📝 MoCLIP-Lite, has been accepted at IEEE CISP and is now available on IEEE Xplore: [paper](https://ieeexplore.ieee.org/abstract/document/11259157) [[code]](https://github.com/microa/MoCLIP-Lite)
@@ -43,7 +44,7 @@ Hi 👋! I'm an AI researcher interested in building scalable multimodal systems
 
 - **Optimal brain connection: Towards efficient structural pruning**
   S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John
-  IEEE Transactions on Multimedia [[DOI: 10.1109/TMM.2026.3732964]](https://doi.org/10.1109/TMM.2026.3732964) 
+  IEEE Transactions on Multimedia [[Paper]](https://doi.org/10.1109/TMM.2026.3732964) 
 
 
 - **EarthCamQA: An Agentic LLM–VLM Framework for Real-Time Visual Question Answering in Urban Environments**  
