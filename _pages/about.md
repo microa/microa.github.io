@@ -25,7 +25,7 @@ Hi 👋! I'm an AI researcher interested in building scalable multimodal systems
 
 
 # 🔥 News
-- *2026.10*: &nbsp;📝 MoCLIP, has been accepted at The Visual Computer!
+- *2026.10*: &nbsp;📝 MoCLIP, has been accepted at The Visual Computer! [[Paper comming soon]]()[[Code]](https://github.com/microa/MoCLIP)
 - *2026.09*: &nbsp;📝 Optimal Brain Connection, has been accepted at IEEE Transactions on Multimedia and is now available on: [[Paper]](https://doi.org/10.1109/TMM.2026.3732964) 
 - *2026.07*: &nbsp;📝 EarthCamQA, has been accepted at iEMSs and is now available on: [[Paper]](https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa.pdf) [[Code]](https://github.com/microa/realtime-urban-visual-qa)
 - *2026.03*: &nbsp;📝 MoCrop, has been accepted at IEEE IJCNN. [[paper]](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
@@ -40,7 +40,7 @@ Hi 👋! I'm an AI researcher interested in building scalable multimodal systems
 **2026**
 - **Training-Efficient Video Action Recognition Through Vision-Language Semantic Priors and Compressed-Domain Motion Fusion**  
   **B. Huang**, Z. Cui, W Yao, Y. Li, and S. Dev  
-  The Visual Computer  
+  The Visual Computer  [[Paper comming soon]]()[[Code]](https://github.com/microa/MoCLIP)  
 
 - **Optimal brain connection: Towards efficient structural pruning**  
   S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John  
