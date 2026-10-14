@@ -40,7 +40,7 @@ Hi 👋! I'm an AI researcher interested in building scalable multimodal systems
 **2026**
 - **Training-Efficient Video Action Recognition Through Vision-Language Semantic Priors and Compressed-Domain Motion Fusion**  
   **B. Huang**, Z. Cui, W Yao, Y. Li, and S. Dev  
-  The Visual Computer  [[Paper comming soon]]()[[Code]](https://github.com/microa/MoCLIP)  
+  The Visual Computer  [[Paper coming soon]]()[[Code]](https://github.com/microa/MoCLIP)  
 
 - **Optimal brain connection: Towards efficient structural pruning**  
   S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John  
