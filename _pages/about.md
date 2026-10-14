@@ -73,7 +73,7 @@ redirect_from:
 
 More papers on <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-grey?style=flat&logo=Google%20Scholar&labelColor=f6f6f6"></a> <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-# 🧩 Open-Source Contributions
+# 🧩 Open-Source Projects & Contributions
 - **mv-extractor** — Contributor (2025)  
   A fast H.264/MPEG-4 motion-vector extractor with optional RGB decode skipping.  
   • Key: Implemented **Motion-Vectors-Only** / frame-decode skipping mode; docs & tests; acknowledged upstream.  
@@ -81,6 +81,21 @@ More papers on <a href='https://scholar.google.com/citations?user=WsVak2gAAAAJ'>
   <a href="https://github.com/LukasBommes/mv-extractor"><img alt="GitHub stars" src="https://img.shields.io/github/stars/LukasBommes/mv-extractor?style=social"></a>
   <a href="https://pypi.org/project/motion-vector-extractor/"><img alt="PyPI" src="https://img.shields.io/pypi/v/motion-vector-extractor"></a>
 
+
+- **GelPixel** — Tactile Sensing (RCAR 2023)  
+  A single-pixel tactile sensor research release, including the dataset, multi-target regression code, Fourier parameters, and sensor-structure comparison notebook.  
+  • Links: [Repository](https://github.com/microa/GelPixel) · [Paper](https://ieeexplore.ieee.org/abstract/document/10249300) · [Dataset](https://github.com/microa/GelPixel/blob/main/Data/OUT_FILE_CMB20.csv)  
+  <a href="https://github.com/microa/GelPixel"><img alt="GelPixel GitHub stars" src="https://img.shields.io/github/stars/microa/GelPixel?style=social"></a>
+
+- **CNC_5axis** — Motion Control  
+  A Python interface for five-axis CNC control over serial communication, supporting distance-based movement, timed movement, direction selection, and speed adjustment.  
+  • Links: [Repository](https://github.com/microa/CNC_5axis)  
+  <a href="https://github.com/microa/CNC_5axis"><img alt="CNC_5axis GitHub stars" src="https://img.shields.io/github/stars/microa/CNC_5axis?style=social"></a>
+
+- **Cloud IoT System** — Embedded IoT  
+  An IoT prototype connecting 8051/STM32 devices through ESP8266 WiFi to TCP cloud services for temperature monitoring, data logging, and remote control; includes firmware and hardware diagrams.  
+  • Links: [Repository](https://github.com/microa/Cloud_IoT_System) · [Hardware diagrams](https://github.com/microa/Cloud_IoT_System/tree/main/Diagram)  
+  <a href="https://github.com/microa/Cloud_IoT_System"><img alt="Cloud IoT System GitHub stars" src="https://img.shields.io/github/stars/microa/Cloud_IoT_System?style=social"></a>
 
 # 👨‍💻 Service
 - Session Chair: IJCNN2026
