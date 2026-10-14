@@ -15,6 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='about-me'></span>
+
+{% include ai-introductions.html %}
+
 # 🔥 News {#news}
 - *2026.10*: &nbsp;📝 MoCLIP has been accepted at The Visual Computer! Paper coming soon · [[Code]](https://github.com/microa/MoCLIP)
 - *2026.09*: &nbsp;📝 Optimal Brain Connection, has been accepted at IEEE Transactions on Multimedia and is now available on: [[Paper]](https://doi.org/10.1109/TMM.2026.3732964) 
@@ -25,12 +29,6 @@ redirect_from:
 - *2025.10*: &nbsp;🤝 Contributed MV-Only (high-speed mode) to mv-extractor. [[upstream]](https://github.com/LukasBommes/mv-extractor) [[my fork]](https://github.com/microa/hs-mv-extractor) [[PyPI]](https://pypi.org/project/motion-vector-extractor/)
 - *2025.09*: &nbsp;📝 Preprinted MVP on arXiv: [[paper]](https://arxiv.org/abs/2509.18388) [[code]](https://github.com/microa/MVP)
 
-
-# About Me {#about-me}
-
-<p class="model-intros__note">In the words of four AI models.</p>
-
-{% include ai-introductions.html %}
 
 # 📝 Latest Publications {#publications} 
 

@@ -1,12 +1,12 @@
 <ul class="model-intros" aria-label="AI-generated descriptions">
   {% for model in site.data.ai_introductions.models %}
   {% if model.quote != empty and model.quote %}
-  <li class="model-intros__row">
-    <img class="model-intros__icon" src="{{ model.icon | relative_url }}" width="32" height="32" alt="{{ model.name | escape }} logo">
-    <div>
+  <li class="model-intros__paper">
+    <div class="model-intros__header">
+      <img class="model-intros__icon" src="{{ model.icon | relative_url }}" width="32" height="32" alt="{{ model.name | escape }} logo">
       <p class="model-intros__source" title="Original {{ model.name | escape }} output supplied by Binhua Huang{% if model.generated_on %} · {{ model.generated_on | escape }}{% endif %}">{{ model.name | escape }}{% if model.version %} <span>{{ model.version | escape }}</span>{% endif %}</p>
-      <p class="model-intros__quote">{{ model.quote | escape }}</p>
     </div>
+    <p class="model-intros__quote">{{ model.quote | escape }}</p>
   </li>
   {% endif %}
   {% endfor %}
