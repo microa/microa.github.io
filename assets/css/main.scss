@@ -170,6 +170,7 @@ h1:before, .anchor:before {
 .model-intros__header {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 8px;
   margin-bottom: 14px;
 }
@@ -180,17 +181,12 @@ h1:before, .anchor:before {
   height: 28px;
 }
 
-.model-intros__source {
+.model-intros__header .model-intros__source {
   margin: 0;
   font-size: .8em;
   font-weight: 600;
-}
-
-.model-intros__source span {
-  display: block;
-  color: #606770;
-  font-size: .8em;
-  font-weight: 400;
+  line-height: 1;
+  white-space: nowrap;
 }
 
 .model-intros__quote {
