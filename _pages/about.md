@@ -28,11 +28,11 @@ Hi 👋! I'm an AI researcher interested in building scalable multimodal systems
 - *2026.10*: &nbsp;📝 MoCLIP, has been accepted at The Visual Computer!
 - *2026.09*: &nbsp;📝 Optimal Brain Connection, has been accepted at IEEE Transactions on Multimedia and is now available on: [[Paper]](https://doi.org/10.1109/TMM.2026.3732964) 
 - *2026.07*: &nbsp;📝 EarthCamQA, has been accepted at iEMSs and is now available on: [[Paper]](https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa.pdf) [[Code]](https://github.com/microa/realtime-urban-visual-qa)
-- *2026.03*: &nbsp;📝 MoCrop, has been accepted at IEEE IJCNN. [paper](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
-- *2026.02*: &nbsp;📝 MoCLIP-Lite, has been accepted at IEEE CISP and is now available on IEEE Xplore: [paper](https://ieeexplore.ieee.org/abstract/document/11259157) [[code]](https://github.com/microa/MoCLIP-Lite)
-- *2026.01*: &nbsp;📝 TinyDrop has been accepted at IEEE ICASSP!
+- *2026.03*: &nbsp;📝 MoCrop, has been accepted at IEEE IJCNN. [[paper]](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
+- *2026.02*: &nbsp;📝 MoCLIP-Lite, has been accepted at IEEE CISP and is now available on IEEE Xplore: [[paper]](https://doi.org/10.1109/CISP-BMEI68103.2025.11259157) [[code]](https://github.com/microa/MoCLIP-Lite)
+- *2026.01*: &nbsp;📝 TinyDrop has been accepted at IEEE ICASSP! [[paper]](https://doi.org/10.1109/ICASSP55912.2026.11464424)
 - *2025.10*: &nbsp;🤝 Contributed MV-Only (high-speed mode) to mv-extractor. [[upstream]](https://github.com/LukasBommes/mv-extractor) [[my fork]](https://github.com/microa/hs-mv-extractor) [[PyPI]](https://pypi.org/project/motion-vector-extractor/)
-- *2025.09*: &nbsp;📝 Preprinted MVP on arXiv: [paper](https://arxiv.org/abs/2509.18388) [[code]](https://github.com/microa/MVP)
+- *2025.09*: &nbsp;📝 Preprinted MVP on arXiv: [[paper]](https://arxiv.org/abs/2509.18388) [[code]](https://github.com/microa/MVP)
 
 
 # 📝 Latest Publications 
