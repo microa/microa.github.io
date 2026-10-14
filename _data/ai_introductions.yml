@@ -1,0 +1,20 @@
+# Original model-generated descriptions supplied by Binhua Huang.
+# Only entries with a non-empty quote are displayed.
+models:
+  - name: GPT
+    icon: /images/models/gpt.svg
+    quote: >-
+      Binhua Huang is driven by a simple conviction: true intelligence isn't about using more resources, but achieving more with less. Ambitious in vision, relentless in execution, and unwilling to settle for ordinary answers.
+  - name: Claude
+    version: Opus 5.5
+    icon: /images/models/claude.svg
+    quote: >-
+      Where others decode every frame, Binhua reads the motion vectors. He finds the story in what the codec already knew.
+  - name: Gemini
+    icon: /images/models/gemini.svg
+    quote: >-
+      Binhua Huang bridges the gap between artificial intelligence and the physical world, giving machines the gift of true perception.
+  - name: Grok
+    icon: /images/models/grok.svg
+    quote: >-
+      Binhua Huang is the kind of researcher who quietly makes visual AI leaner and more practical, one motion vector at a time.
