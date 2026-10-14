@@ -25,7 +25,7 @@ Hi 👋! I'm an AI researcher interested in building scalable multimodal systems
 
 
 # 🔥 News
-- *2026.10*: &nbsp;📝 MoCLIP, has been accepted at The Visual Computer! [[Paper coming soon]]()[[Code]](https://github.com/microa/MoCLIP)
+- *2026.10*: &nbsp;📝 MoCLIP, has been accepted at The Visual Computer! Paper coming soon · [[Code]](https://github.com/microa/MoCLIP)
 - *2026.09*: &nbsp;📝 Optimal Brain Connection, has been accepted at IEEE Transactions on Multimedia and is now available on: [[Paper]](https://doi.org/10.1109/TMM.2026.3732964) 
 - *2026.07*: &nbsp;📝 EarthCamQA, has been accepted at iEMSs and is now available on: [[Paper]](https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa.pdf) [[Code]](https://github.com/microa/realtime-urban-visual-qa)
 - *2026.03*: &nbsp;📝 MoCrop, has been accepted at IEEE IJCNN. [[paper]](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
@@ -39,15 +39,15 @@ Hi 👋! I'm an AI researcher interested in building scalable multimodal systems
 
 **2026**
 - **Training-Efficient Video Action Recognition Through Vision-Language Semantic Priors and Compressed-Domain Motion Fusion**  
-  **B. Huang**, Z. Cui, W Yao, Y. Li, and S. Dev  
-  The Visual Computer  [[Paper coming soon]]()[[Code]](https://github.com/microa/MoCLIP)  
+  **B. Huang**, Z. Cui, W. Yao, Y. Li, and S. Dev  
+  The Visual Computer  Paper coming soon · [[Code]](https://github.com/microa/MoCLIP)  
 
 - **Optimal brain connection: Towards efficient structural pruning**  
   S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John  
-  IEEE Transactions on Multimedia [[Paper]](https://doi.org/10.1109/TMM.2026.3732964)   
+  IEEE Transactions on Multimedia [[Paper]](https://doi.org/10.1109/TMM.2026.3732964) [[arXiv]](https://arxiv.org/abs/2508.05521) [[Code]](https://github.com/ShaowuChen/Optimal_Brain_Connection)   
 
 - **EarthCamQA: An Agentic LLM–VLM Framework for Real-Time Visual Question Answering in Urban Environments**  
-  **B. Huang**, W. Yao, Y. Li, DA. Cabrera, S. Dev  
+  **B. Huang**, W. Yao, Y. Li, D. A. Cabrera, S. Dev  
   iEMSs 2026 [[Paper]](https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa.pdf) [[Code]](https://github.com/microa/realtime-urban-visual-qa)
 
 - **MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition**  
@@ -56,24 +56,20 @@ Hi 👋! I'm an AI researcher interested in building scalable multimodal systems
 
 - **TinyDrop: Tiny Model Guided Token Dropping for Vision Transformers**  
   G. Wang, Q. Wang, **B. Huang**, S. Chen, D. John  
-  IEEE ICASSP 2026 [[Paper]](https://arxiv.org/abs/2509.03379)
+  IEEE ICASSP 2026 [[Paper]](https://doi.org/10.1109/ICASSP55912.2026.11464424) [[arXiv]](https://arxiv.org/abs/2509.03379)
 
 **2025**
 - **MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors**  
-  **B. Huang**, N. Wang, A. Parakash, S. Dev  
-  IEEE CISP 2025 [[Paper]](https://ieeexplore.ieee.org/abstract/document/11259157) [[Code]](https://github.com/microa/MoCLIP-Lite)
+  **B. Huang**, N. Wang, A. Pakrashi, S. Dev  
+  IEEE CISP 2025 [[Paper]](https://doi.org/10.1109/CISP-BMEI68103.2025.11259157) [[Code]](https://github.com/microa/MoCLIP-Lite)
 
 - **MVP: Motion Vector Propagation for Zero-Shot Video Object Detection**  
   **B. Huang**, N. Wang, W. Yao, S. Dev  
   arXiv preprint [[Paper]](https://arxiv.org/abs/2509.18388) [[Code]](https://github.com/microa/MVP)
 
-- **Optimal Brain Connection: Towards Efficient Structural Pruning**  
-  S. Chen, W. Ma, **B. Huang**, Q. Wang, G. Wang, W. Sun, L. Huang, D. John  
-  arXiv preprint [[Paper]](https://arxiv.org/abs/2508.05521)
-
 - **DCentNet: Decentralized multistage biomedical signal classification using early exits**  
   X. Li, **B. Huang**, B. Cardiff, D. John  
-  Biomedical Signal Processing and Control [[Paper]](https://doi.org/10.1016/j.bspc.2024.107468) [[Code]](https://github.com/microa/DSCEE)
+  Biomedical Signal Processing and Control [[Paper]](https://doi.org/10.1016/j.bspc.2024.107468) [[Code]](https://github.com/microa/DCentNet)
 
 **2024**
 - **Dynamic liquid volume estimation using optical tactile sensors and spiking neural network**  

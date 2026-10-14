@@ -15,14 +15,15 @@ Vision-Language Models and Multimodal Large Language Models represent the fronti
 
 1. **CLIP Integration**: Leveraging large-scale vision-language models for video understanding
 2. **Efficient Fusion**: Combining frozen vision-language models with temporal information
-3. **Zero-Shot Capabilities**: Training-free approaches for video recognition tasks
+3. **Semantic Transfer**: Adapting image-language representations to video action recognition with lightweight supervised fusion
 
 ## Publications
 
 ### MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors
 
-**Authors**: **Binhua Huang**, Nan Wang, Arjun Parakash, Soumyabrata Dev  
-**Journal**: arXiv preprint, 2025  
+**Authors**: **Binhua Huang**, Ni Wang, Arjun Pakrashi, Soumyabrata Dev  
+**Conference**: IEEE CISP-BMEI, 2025  
+**DOI**: [10.1109/CISP-BMEI68103.2025.11259157](https://doi.org/10.1109/CISP-BMEI68103.2025.11259157)  
 **arXiv**: [2509.17084](https://arxiv.org/abs/2509.17084)  
 **Code**: [GitHub Repository](https://github.com/microa/MoCLIP-Lite)
 
@@ -31,7 +32,7 @@ Vision-Language Models and Multimodal Large Language Models represent the fronti
 **Key Contributions**:
 - **CLIP Integration**: Effective fusion of frozen CLIP image encoder with temporal information
 - **Two-Stream Architecture**: Late fusion framework combining vision-language and motion features
-- **Zero-Shot Capabilities**: Leveraging CLIP's powerful zero-shot capabilities for video understanding
+- **Semantic Transfer**: Reusing CLIP image representations for supervised video recognition
 - **Efficient Design**: Frozen backbone approach ensuring extreme efficiency
 - **Performance**: 89.2% Top-1 accuracy on UCF101 dataset
 
@@ -45,7 +46,7 @@ Vision-Language Models and Multimodal Large Language Models represent the fronti
 **Vision-Language Model Aspects**:
 - **Large-Scale Model Utilization**: Effective use of pre-trained CLIP models
 - **Multimodal Understanding**: Integration of visual and temporal information
-- **Zero-Shot Transfer**: Leveraging CLIP's zero-shot capabilities for video tasks
+- **Semantic Priors**: Reusing CLIP representations without fine-tuning the image encoder
 - **Frozen Backbone Efficiency**: Maintaining efficiency while utilizing large models
 
 ## Research Impact
@@ -53,7 +54,7 @@ Vision-Language Models and Multimodal Large Language Models represent the fronti
 This work contributes to the VLM/MLLM field through:
 
 1. **Efficient Integration**: Novel approach to combining large vision-language models with video understanding
-2. **Zero-Shot Capabilities**: Demonstrates effective zero-shot transfer from image to video domains
+2. **Semantic Transfer**: Reuses image-language representations for video action recognition
 3. **Computational Efficiency**: Maintains efficiency while utilizing large-scale models
 4. **Practical Deployment**: Provides practical solutions for video understanding tasks
 
@@ -64,9 +65,9 @@ This work contributes to the VLM/MLLM field through:
 - **Temporal Integration**: Combining static image understanding with motion information
 - **Late Fusion Strategy**: Optimal combination of visual and temporal features
 
-### Zero-Shot Video Understanding
+### Efficient Video Adaptation
 - **Domain Transfer**: From image understanding to video recognition
-- **Training-Free Approach**: No additional training required for video tasks
+- **Lightweight Training**: A supervised motion encoder and a small fusion head adapt frozen CLIP representations to video tasks
 - **Performance Preservation**: Maintaining accuracy while reducing computational costs
 
 ### Efficient Architecture

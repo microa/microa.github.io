@@ -21,8 +21,9 @@ Video recognition is a fundamental task in computer vision, but state-of-the-art
 
 ### 1. MoCLIP-Lite: Efficient Video Recognition by Fusing CLIP with Motion Vectors
 
-**Authors**: **Binhua Huang**, Nan Wang, Arjun Parakash, Soumyabrata Dev  
-**Journal**: arXiv preprint, 2025  
+**Authors**: **Binhua Huang**, Ni Wang, Arjun Pakrashi, Soumyabrata Dev  
+**Conference**: IEEE CISP-BMEI, 2025  
+**DOI**: [10.1109/CISP-BMEI68103.2025.11259157](https://doi.org/10.1109/CISP-BMEI68103.2025.11259157)  
 **arXiv**: [2509.17084](https://arxiv.org/abs/2509.17084)  
 **Code**: [GitHub Repository](https://github.com/microa/MoCLIP-Lite)
 
@@ -43,7 +44,7 @@ Video recognition is a fundamental task in computer vision, but state-of-the-art
 ### 2. MVP: Motion Vector Propagation for Zero-Shot Video Object Detection
 
 **Authors**: **Binhua Huang**, Ni Wang, Wendong Yao, Soumyabrata Dev  
-**Journal**: arXiv preprint, 2025  
+**Status**: arXiv preprint, 2025  
 **arXiv**: [2509.18388](https://arxiv.org/abs/2509.18388)  
 **Code**: [GitHub Repository](https://github.com/microa/MVP)
 
@@ -66,7 +67,7 @@ Video recognition is a fundamental task in computer vision, but state-of-the-art
 ### 3. MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition
 
 **Authors**: **Binhua Huang**, Wendong Yao, Shaowu Chen, Guoxin Wang, Qingyuan Wang, Soumyabrata Dev  
-**Journal**: arXiv preprint, 2025  
+**Conference**: IEEE International Joint Conference on Neural Networks (IJCNN), 2026 (accepted)  
 **arXiv**: [2509.18473](https://arxiv.org/abs/2509.18473)  
 **Code**: [GitHub Repository](https://github.com/microa/MoCrop)
 
@@ -85,6 +86,17 @@ Video recognition is a fundamental task in computer vision, but state-of-the-art
 - Single crop application across all I-frames
 - Compatible with various backbone networks
 - No training required, zero parameter overhead
+
+### 4. Training-Efficient Video Action Recognition Through Vision-Language Semantic Priors and Compressed-Domain Motion Fusion (MoCLIP)
+
+**Authors**: **Binhua Huang**, Z. Cui, Wendong Yao, Y. Li, Soumyabrata Dev  
+**Journal**: The Visual Computer, 2026 (accepted)  
+**Paper**: Coming soon  
+**Code**: [GitHub Repository (component preview)](https://github.com/microa/MoCLIP)
+
+**Summary**: MoCLIP combines frozen CLIP appearance representations from sparsely sampled RGB frames with compressed-domain motion features. A compact Cross-Modal Feature Integration (CMFI) head fuses the features, with optional parameter-free Probability Fusion across branches.
+
+The repository currently provides reusable model components; the complete data-preparation, training, and evaluation pipeline is being prepared for release.
 
 ## Research Impact
 
