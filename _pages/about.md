@@ -23,7 +23,7 @@ redirect_from:
 - *2026.10*: &nbsp;📝 MoCLIP has been accepted at The Visual Computer! Paper coming soon · [[code]](https://github.com/microa/MoCLIP)
 - *2026.09*: &nbsp;📝 Optimal Brain Connection, has been accepted at IEEE Transactions on Multimedia and is now available on: [[paper]](https://doi.org/10.1109/TMM.2026.3732964) 
 - *2026.07*: &nbsp;📝 EarthCamQA, has been accepted at iEMSs and is now available on: [[paper]](https://soumyabratadev.wordpress.com/wp-content/uploads/2026/07/huang2026earthcamqa.pdf) [[code]](https://github.com/microa/realtime-urban-visual-qa)
-- *2026.03*: &nbsp;📝 MoCrop, has been accepted at IEEE IJCNN. [[paper]](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
+- *2026.03*: &nbsp;📝 MoCrop, has been accepted at IEEE IJCNN. [[paper]](https://doi.org/10.1109/IJCNN69854.2026.11728465) [[code]](https://github.com/microa/MoCrop)
 - *2026.02*: &nbsp;📝 MoCLIP-Lite, has been accepted at IEEE CISP and is now available on IEEE Xplore: [[paper]](https://doi.org/10.1109/CISP-BMEI68103.2025.11259157) [[code]](https://github.com/microa/MoCLIP-Lite)
 - *2026.01*: &nbsp;📝 TinyDrop has been accepted at IEEE ICASSP! [[paper]](https://doi.org/10.1109/ICASSP55912.2026.11464424)
 - *2025.10*: &nbsp;🤝 Contributed MV-Only (high-speed mode) to mv-extractor. [[upstream]](https://github.com/LukasBommes/mv-extractor) [[my fork]](https://github.com/microa/hs-mv-extractor) [[PyPI]](https://pypi.org/project/motion-vector-extractor/)
@@ -47,7 +47,7 @@ redirect_from:
 
 - **MoCrop: Training Free Motion Guided Cropping for Efficient Video Action Recognition**  
   **B. Huang**, W. Yao, S. Chen, G. Wang, Q. Wang, S. Dev  
-  IEEE IJCNN 2026 [[paper]](https://arxiv.org/abs/2509.18473) [[code]](https://github.com/microa/MoCrop)
+  IEEE IJCNN 2026 [[paper]](https://doi.org/10.1109/IJCNN69854.2026.11728465) [[code]](https://github.com/microa/MoCrop)
 
 - **TinyDrop: Tiny Model Guided Token Dropping for Vision Transformers**  
   G. Wang, Q. Wang, **B. Huang**, S. Chen, D. John  
